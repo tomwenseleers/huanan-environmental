@@ -363,7 +363,7 @@ null_value_wdrain = mean(predict(fit, newdata=data.frame(predgrid_wdrain,
                                                          Sample.type="Water drain"), 
                                  type="link")) # avg logit(prop positive) across market among Water drain samples
 plogis(null_value_wdrain) 
-# 0.01215741
+# 0.01212966
 
 preds_wdrain_df = predictions(fit, newdata=data.frame(predgrid_wdrain,
                                                       Sample.type="Water drain"), 
