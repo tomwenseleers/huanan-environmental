@@ -1,0 +1,1381 @@
+Sample ID,Lab code,Sampling date,Sampling location,Street No,Vendor No,Sample type,Sample information,Animal Species,SARS-CoV-2 qPCR result,Aquatic (type of vendor sold product),Seafood (type of vendor sold product),Poultry (type of vendor sold product),Livestock (type of vendor sold product),Wildlife (type of vendor sold product),Vegetable (type of vendor sold product),Cold chain (type of vendor sold product)
+Env_0001,A1,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0002b,A2,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Ground,\,Positive,yes,yes,no,no,no,no,yes
+Env_0003,A3,2020-01-01,West Wine of HSM,7,11-13,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0004,A4,2020-01-01,West Wine of HSM,7,11-13,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0005,A5,2020-01-01,West Wine of HSM,7,19-21,Environmental swab,Wall,\,Negative,no,no,no,no,no,no,no
+Env_0006,A6,2020-01-01,West Wine of HSM,7,19-21,Environmental swab,Surface of packing bag,\,Negative,no,no,no,no,no,no,no
+Env_0007,A7,2020-01-01,West Wine of HSM,7,19-21,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0008,A8,2020-01-01,West Wine of HSM,4,20,Environmental swab,Cashier,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0009,A9,2020-01-01,West Wine of HSM,4,20,Environmental swab,Surface of packing bag,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0010,A10,2020-01-01,West Wine of HSM,4,20,Environmental swab,Surface of the door,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0011,A11,2020-01-01,West Wine of HSM,4,26,Environmental swab,Water in fishbowl,\,Negative,no,no,yes,no,no,no,yes
+Env_0012,A12,2020-01-01,West Wine of HSM,4,26,Environmental swab,Surface of mushroom,\,Negative,no,no,yes,no,no,no,yes
+Env_0013,A13,2020-01-01,West Wine of HSM,4,26,Environmental swab,Surface of food,\,Negative,no,no,yes,no,no,no,yes
+Env_0014,A14,2020-01-01,West Wine of HSM,4,26,Environmental swab,Surface of packing bag for hairtail,\,Positive,no,no,yes,no,no,no,yes
+Env_0015,A15,2020-01-01,West Wine of HSM,4,26,Environmental swab,Surface of the door,\,Positive,no,no,yes,no,no,no,yes
+Env_0016,A16,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Surface of food,\,Negative,yes,yes,no,no,no,no,yes
+Env_0017,A17,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Package of aquatic product,\,Negative,yes,yes,no,no,no,no,yes
+Env_0018,A18,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Shoe covers and soles,\,Positive,yes,yes,no,no,no,no,yes
+Env_0019,A19,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Basket,\,Negative,yes,yes,no,no,no,no,yes
+Env_0020,A20,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Gloves,\,Positive,yes,yes,no,no,no,no,yes
+Env_0021,A21,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,yes
+Env_0022,A22,2020-01-01,West Wine of HSM,7,15-17,Environmental swab,Cart,\,Negative,yes,yes,no,no,no,no,yes
+Env_0023,A23,2020-01-01,West Wine of HSM,7,5-7,Environmental swab,Surface of packing bag,\,Negative,yes,yes,no,no,no,no,no
+Env_0024,A24,2020-01-01,West Wine of HSM,7,5-7,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,no
+Env_0025,A25,2020-01-01,West Wine of HSM,7,5-7,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,no
+Env_0026,A26,2020-01-01,West Wine of HSM,7,5-7,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,no
+Env_0027,A27,2020-01-01,West Wine of HSM,7,5-7,Environmental swab,Basket (beer),\,Negative,yes,yes,no,no,no,no,no
+Env_0028,A28,2020-01-01,West Wine of HSM,7,23,Environmental swab,Fishbow,\,Negative,yes,no,no,yes,no,no,no
+Env_0029,A29,2020-01-01,West Wine of HSM,7,23,Environmental swab,Glove,\,Negative,yes,no,no,yes,no,no,no
+Env_0030,A30,2020-01-01,West Wine of HSM,7,23,Environmental swab,Knief,\,Negative,yes,no,no,yes,no,no,no
+Env_0031,A31,2020-01-01,West Wine of HSM,7,23,Environmental swab,Basket,\,Negative,yes,no,no,yes,no,no,no
+Env_0032,A32,2020-01-01,West Wine of HSM,7,23,Environmental swab,Surface of the door,\,Negative,yes,no,no,yes,no,no,no
+Env_0033,A33,2020-01-01,West Wine of HSM,7,NA,Environmental swab,Garbage cart,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0034,A34,2020-01-01,West Wine of HSM,7,NA,Environmental swab,Garbage vehicle,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0035,A35,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,yes,no
+Env_0036,A36,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,no
+Env_0037,A37,2020-01-01,West Wine of HSM,7,38,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0038,A38,2020-01-01,West Wine of HSM,7,38,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0039,A39,2020-01-01,West Wine of HSM,7,36,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0040,A40,2020-01-01,West Wine of HSM,7,36,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0041,A41,2020-01-01,West Wine of HSM,7,34,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0042,A42,2020-01-01,West Wine of HSM,7,34,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0043,A43,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,yes,no,yes
+Env_0044,A44,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Ground,\,Negative,no,no,yes,no,yes,no,yes
+Env_0045,A45,2020-01-01,West Wine of HSM,7,30-32,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0046,A46,2020-01-01,West Wine of HSM,7,30-32,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0047,A47,2020-01-01,West Wine of HSM,7,30-32,Environmental swab,Towel on floor,\,Negative,no,no,yes,no,no,no,yes
+Env_0048,A48,2020-01-01,West Wine of HSM,7,29,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0049,A49,2020-01-01,West Wine of HSM,7,29,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0050,A50,2020-01-01,West Wine of HSM,7,27,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0051,A51,2020-01-01,West Wine of HSM,7,27,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0052,A52,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0053,A53,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0054,A54,2020-01-01,West Wine of HSM,7,25,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,yes,yes
+Env_0055,A55,2020-01-01,West Wine of HSM,7,25,Environmental swab,Ground,\,Positive,no,no,no,no,no,yes,yes
+Env_0056,A56,2020-01-01,West Wine of HSM,7,24,Environmental swab,Chopping block,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0057,A57,2020-01-01,West Wine of HSM,7,24,Environmental swab,Bone cutting machine,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0058,A58,2020-01-01,West Wine of HSM,7,24,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0059,A59,2020-01-01,West Wine of HSM,7,24,Environmental swab,Ground,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0060,A60,2020-01-01,West Wine of HSM,7,20-22-24,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0061,A61,2020-01-01,West Wine of HSM,7,20-22-24,Environmental swab,Ground,\,Positive,yes,no,yes,yes,no,no,yes
+Env_0062,A62,2020-01-01,West Wine of HSM,7,16-18,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0063,A63,2020-01-01,West Wine of HSM,7,16-18,Environmental swab,Ground,\,Positive,no,no,no,no,no,no,no
+Env_0064,A64,2020-01-01,West Wine of HSM,7,11-13,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0065,A65,2020-01-01,West Wine of HSM,7,11-13,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0066,A66,2020-01-01,West Wine of HSM,7,12-14,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0067,A67,2020-01-01,West Wine of HSM,7,12-14,Environmental swab,Ground,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0068,A68,2020-01-01,West Wine of HSM,7,10,Environmental swab,Surface of the door,\,Negative,no,no,no,yes,no,no,no
+Env_0069,A69,2020-01-01,West Wine of HSM,7,10,Environmental swab,Ground,\,Negative,no,no,no,yes,no,no,no
+Env_0070,A70,2020-01-01,West Wine of HSM,7,9,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0071,A71,2020-01-01,West Wine of HSM,7,9,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0072,A72,2020-01-01,West Wine of HSM,6,8,Environmental swab,Surface of the door,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0073,A73,2020-01-01,West Wine of HSM,6,8,Environmental swab,Ground,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0074,A74,2020-01-01,West Wine of HSM,7,1-3,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0075,A75,2020-01-01,West Wine of HSM,7,1-3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0076,A76,2020-01-01,West Wine of HSM,7,2-4,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0077,A77,2020-01-01,West Wine of HSM,7,2-4,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0078,A78,2020-01-01,West Wine of HSM,7,X4-X6,Environmental swab,Surface of the door,\,Negative,no,yes,no,no,no,no,no
+Env_0079,A79,2020-01-01,West Wine of HSM,7,X4-X6,Environmental swab,Ground,\,Negative,no,yes,no,no,no,no,no
+Env_0080,A80,2020-01-01,West Wine of HSM,7,X3-X5,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0081,A81,2020-01-01,West Wine of HSM,7,X3-X5,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0082,A82,2020-01-01,West Wine of HSM,7,X2-X4,Environmental swab,Surface of the door,\,Negative,no,yes,no,no,no,no,no
+Env_0083,A83,2020-01-01,West Wine of HSM,7,X2-X4,Environmental swab,Ground,\,Negative,no,yes,no,no,no,no,no
+Env_0084,A84,2020-01-01,West Wine of HSM,7,X1-X3,Environmental swab,Cashier desk,\,Negative,yes,yes,yes,no,no,no,no
+Env_0085,A85,2020-01-01,West Wine of HSM,7,X1-X3,Environmental swab,Ground,\,Negative,yes,yes,yes,no,no,no,no
+Env_0086,A86,2020-01-01,West Wine of HSM,7,X1-X3,Environmental swab,Surface of the door,\,Negative,yes,yes,yes,no,no,no,no
+Env_0087,A87,2020-01-01,West Wine of HSM,4,28,Environmental swab,Surface of the door,\,Positive,no,no,yes,no,no,no,yes
+Env_0088,A88,2020-01-01,West Wine of HSM,4,28,Environmental swab,Ground,\,Positive,no,no,yes,no,no,no,yes
+Env_0089,A89,2020-01-01,West Wine of HSM,4,26,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0090,A90,2020-01-01,West Wine of HSM,4,26,Environmental swab,Ground,\,Positive,no,no,yes,no,no,no,yes
+Env_0091,A91,2020-01-01,West Wine of HSM,4,30,Environmental swab,Surface of the door,\,Negative,yes,yes,no,yes,no,no,no
+Env_0092,A92,2020-01-01,West Wine of HSM,4,30,Environmental swab,Ground,\,Negative,yes,yes,no,yes,no,no,no
+Env_0093,A93,2020-01-01,West Wine of HSM,4,23,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,no
+Env_0094,A94,2020-01-01,West Wine of HSM,4,23,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,no
+Env_0095,A95,2020-01-01,West Wine of HSM,4,24,Environmental swab,Surface of the door,\,Negative,yes,no,no,no,no,no,no
+Env_0096,A96,2020-01-01,West Wine of HSM,4,24,Environmental swab,Ground,\,Positive,yes,no,no,no,no,no,no
+Env_0097,A97,2020-01-01,West Wine of HSM,4,22,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,yes,yes
+Env_0098,A98,2020-01-01,West Wine of HSM,4,22,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,yes
+Env_0099,A99,2020-01-01,West Wine of HSM,4,21,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,no
+Env_0100,A100,2020-01-01,West Wine of HSM,4,21,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,no
+Env_0101,A101,2020-01-01,West Wine of HSM,4,19,Environmental swab,Surface of the door,\,Positive,yes,no,no,no,no,no,no
+Env_0102,A102,2020-01-01,West Wine of HSM,4,19,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,no
+Env_0103,A103,2020-01-01,West Wine of HSM,4,15-17,Environmental swab,Water in fishbowl,\,Negative,yes,no,no,no,no,no,no
+Env_0104,A104,2020-01-01,West Wine of HSM,4,15-17,Environmental swab,Cashier,\,Negative,yes,no,no,no,no,no,no
+Env_0105,A105,2020-01-01,West Wine of HSM,4,15-17,Environmental swab,Basket,\,Negative,yes,no,no,no,no,no,no
+Env_0106,A106,2020-01-01,West Wine of HSM,4,15-17,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,no
+Env_0107,A107,2020-01-01,West Wine of HSM,4,15-17,Environmental swab,Surface of the door,\,Negative,yes,no,no,no,no,no,no
+Env_0108,A108,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,no
+Env_0109,A109,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,no
+Env_0110,A110,2020-01-01,West Wine of HSM,4,11-13,Environmental swab,Surface of the door,\,Negative,yes,no,no,no,no,no,yes
+Env_0111,A111,2020-01-01,West Wine of HSM,4,11-13,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0112,A112,2020-01-01,West Wine of HSM,4,12-14,Environmental swab,Surface of the door,\,Negative,no,yes,no,no,no,no,no
+Env_0113,A113,2020-01-01,West Wine of HSM,4,12-14,Environmental swab,Ground,\,Negative,no,yes,no,no,no,no,no
+Env_0114,A114,2020-01-01,West Wine of HSM,4,10,Environmental swab,Surface of the door,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0115,A115,2020-01-01,West Wine of HSM,4,10,Environmental swab,Ground,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0116,A116,2020-01-01,West Wine of HSM,4,9,Environmental swab,Surface of the door,\,Negative,yes,no,no,yes,no,no,yes
+Env_0117,A117,2020-01-01,West Wine of HSM,4,9,Environmental swab,Ground,\,Negative,yes,no,no,yes,no,no,yes
+Env_0118,A118,2020-01-01,West Wine of HSM,4,7,Environmental swab,Surface of the door,\,Negative,yes,no,no,no,no,no,no
+Env_0119,A119,2020-01-01,West Wine of HSM,4,7,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,no
+Env_0120,A120,2020-01-01,West Wine of HSM,4,8,Environmental swab,Surface of the door,\,Negative,no,no,yes,yes,no,no,no
+Env_0121,A121,2020-01-01,West Wine of HSM,4,8,Environmental swab,Ground,\,Negative,no,no,yes,yes,no,no,no
+Env_0122,B1,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Cart,\,Negative,yes,yes,no,no,no,no,no
+Env_0123,B2,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,no
+Env_0124,B3,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Cashier,\,Negative,yes,yes,no,no,no,no,no
+Env_0125,B4,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Basket,\,Negative,yes,yes,no,no,no,no,no
+Env_0126,B5,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Ground,\,Positive,yes,yes,no,no,no,no,no
+Env_0127,B6,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Knief,\,Negative,yes,yes,no,no,no,no,no
+Env_0128,B7,2020-01-01,West Wine of HSM,5,6-8,Environmental swab,Fishbow,\,Negative,yes,yes,no,no,no,no,no
+Env_0129,B8,2020-01-01,West Wine of HSM,11,11,Environmental swab,Cutting machine,\,Negative,no,no,no,no,no,no,no
+Env_0130,B9,2020-01-01,West Wine of HSM,11,11-13,Environmental swab,Surface of food,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0131,B10,2020-01-01,West Wine of HSM,11,11-13,Environmental swab,Cart,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0132,B11,2020-01-01,West Wine of HSM,11,11-13,Environmental swab,Inner surface of refrigerator,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0133,B12,2020-01-01,West Wine of HSM,11,11-13,Environmental swab,Cashier,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0134,B13,2020-01-01,West Wine of HSM,15,44,Environmental swab,Bucket,\,Negative,yes,yes,no,no,no,no,yes
+Env_0135,B14,2020-01-01,West Wine of HSM,15,44,Environmental swab,Glove,\,Negative,yes,yes,no,no,no,no,yes
+Env_0136,B15,2020-01-01,West Wine of HSM,15,44,Environmental swab,Basket,\,Negative,yes,yes,no,no,no,no,yes
+Env_0137,B16,2020-01-01,West Wine of HSM,15,X44,Environmental swab,Cashier,\,Negative,yes,yes,no,no,no,no,yes
+Env_0138,B17,2020-01-01,West Wine of HSM,15,X44,Environmental swab,Scale,\,Positive,yes,yes,no,no,no,no,yes
+Env_0139,C1,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,yes
+Env_0140,C2,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Food container,\,Negative,yes,yes,no,no,no,no,yes
+Env_0141,C3,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Surface of food,\,Negative,yes,yes,no,no,no,no,yes
+Env_0142,C4,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Sewage on floor,\,Negative,yes,yes,no,no,no,no,yes
+Env_0143,C5,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,yes
+Env_0144,C6,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Table top,\,Negative,yes,yes,no,no,no,no,yes
+Env_0145,C7,2020-01-01,West Wine of HSM,13,X2,Environmental swab,Water,\,Negative,yes,yes,no,no,no,no,yes
+Env_0146,C8,2020-01-01,West Wine of HSM,4,20,Environmental swab,Surface of food,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0147,C9,2020-01-01,West Wine of HSM,4,NA,Environmental swab,Surface of the door,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0148,C10,2020-01-01,West Wine of HSM,4,19,Environmental swab,Water in fishbowl,\,Negative,yes,no,no,no,no,no,no
+Env_0149,C11,2020-01-01,West Wine of HSM,4,19,Environmental swab,Food container,\,Negative,yes,no,no,no,no,no,no
+Env_0150,C12,2020-01-01,West Wine of HSM,4,19,Environmental swab,Food container,\,Negative,yes,no,no,no,no,no,no
+Env_0151,C13,2020-01-01,West Wine of HSM,4,19,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,no
+Env_0152,C14,2020-01-01,West Wine of HSM,4,19,Environmental swab,Scale,\,Negative,yes,no,no,no,no,no,no
+Env_0153,C15,2020-01-01,West Wine of HSM,4,19,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,no
+Env_0154,C16,2020-01-01,West Wine of HSM,4,19,Environmental swab,Water,\,Negative,yes,no,no,no,no,no,no
+Env_0155,C17,2020-01-01,West Wine of HSM,4,19,Environmental swab,Wall,\,Negative,yes,no,no,no,no,no,no
+Env_0156,C18,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Food container,\,Negative,yes,yes,no,no,no,no,no
+Env_0157,C19,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Food container,\,Negative,yes,yes,no,no,no,no,no
+Env_0158,C20,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,no
+Env_0159,C21,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Table top,\,Negative,yes,yes,no,no,no,no,no
+Env_0160,C22,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Sewage,\,Negative,yes,yes,no,no,no,no,no
+Env_0161,C23,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,no
+Env_0162,C24,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,no
+Env_0163,C25,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Surface of packing bag for food,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0164,C26,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Food package in refrigerator,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0165,C27,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Food package in refrigerator,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0166,C28,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Food container,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0167,C29,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Wall,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0168,C30,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Scale,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0169,C31,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Ground,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0170,C32,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Table top,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0171,C33,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Outside surface of refrigerator,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0172,C34,2020-01-01,West Wine of HSM,4,X4-X6,Environmental swab,Sewage on floor,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0173,C35,2020-01-01,West Wine of HSM,Back Street,3,Environmental swab,Motorcycle,\,Negative,yes,yes,no,no,no,no,no
+Env_0174,C36,2020-01-01,West Wine of HSM,Back Street,3,Environmental swab,Motorcycle,\,Negative,yes,yes,no,no,no,no,no
+Env_0175,C37,2020-01-01,West Wine of HSM,Back Street,17,Environmental swab,Motorcycle,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0176,C38,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,no,no,no,yes,no,no,yes
+Env_0177,C39,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0178,C40,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0179,C41,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0180,C42,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0181,C43,2020-01-01,West Wine of HSM,NA,NA,Environmental swab,Surface of cart,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0182,D1,2020-01-01,West Wine of HSM,2,14,Environmental swab,Scale,\,Negative,yes,no,no,no,no,no,yes
+Env_0183,D2,2020-01-01,West Wine of HSM,2,14,Environmental swab,Cashier,\,Negative,yes,no,no,no,no,no,yes
+Env_0184,D3,2020-01-01,West Wine of HSM,2,14,Environmental swab,Pool,\,Negative,yes,no,no,no,no,no,yes
+Env_0185,D4,2020-01-01,West Wine of HSM,2,14,Environmental swab,Towel,\,Negative,yes,no,no,no,no,no,yes
+Env_0186,D5,2020-01-01,West Wine of HSM,2,14,Environmental swab,Hairy Crab cage,\,Negative,yes,no,no,no,no,no,yes
+Env_0187,D6,2020-01-01,West Wine of HSM,2,14,Environmental swab,Pool,\,Negative,yes,no,no,no,no,no,yes
+Env_0188,D7,2020-01-01,West Wine of HSM,2,14,Environmental swab,Pool,\,Negative,yes,no,no,no,no,no,yes
+Env_0189,D8,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Cashier,\,Negative,yes,yes,no,no,no,no,yes
+Env_0190,D9,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,yes
+Env_0191,D10,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Clothe,\,Negative,yes,yes,no,no,no,no,yes
+Env_0192,D11,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Seafood cardboard box,\,Negative,yes,yes,no,no,no,no,yes
+Env_0193,D12,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Surface of foam box,\,Negative,yes,yes,no,no,no,no,yes
+Env_0194,D13,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Environmental swab,\,Negative,yes,yes,no,no,no,no,yes
+Env_0195,D14,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Stair handrail,\,Negative,yes,yes,no,no,no,no,yes
+Env_0196,D15,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Outside surface of refrigerator,\,Negative,yes,yes,no,no,no,no,yes
+Env_0197,D16,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Surface of chair,\,Negative,yes,yes,no,no,no,no,yes
+Env_0198,D17,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Basket,\,Negative,yes,yes,no,no,no,no,yes
+Env_0199,D18,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Cashier,\,Negative,no,no,no,no,no,no,no
+Env_0200,D19,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Surface of phone,\,Negative,no,no,no,no,no,no,no
+Env_0201,D20,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Surface of ladder,\,Negative,no,no,no,no,no,no,no
+Env_0202,D21,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Surface of monitor,\,Negative,no,no,no,no,no,no,no
+Env_0203,D22,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Surface of food,\,Negative,no,no,no,no,no,no,no
+Env_0204,D23,2020-01-01,West Wine of HSM,15,15,Environmental swab,Outside surface of freezer,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0205,D24,2020-01-01,West Wine of HSM,15,15,Environmental swab,Cashier,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0206,D25,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of packing bag,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0207,D26,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of packing bag for seafood in freezer,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0208,D27,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of packing bag for fish in freezer,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0209,D28,2020-01-01,West Wine of HSM,15,15,Environmental swab,Inner surface of freezer,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0210,D29,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of packing bag for meat,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0211,D30,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of water cup,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0212,D31,2020-01-01,West Wine of HSM,15,15,Environmental swab,Meat in refrigerator,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0213,D32,2020-01-01,West Wine of HSM,15,15,Environmental swab,Surface of a cart,\,Positive,yes,yes,yes,no,no,no,yes
+Env_0214,D33,2020-01-01,West Wine of HSM,4,16-18,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,no
+Env_0215,E1,2020-01-01,West Wine of HSM,2,NA,Environmental swab,Door surface,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0216,E2,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0217,E3,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0218,E4,2020-01-01,West Wine of HSM,2,9-11,Environmental swab,Trash cans,\,Negative,yes,yes,no,no,no,no,yes
+Env_0219,E5,2020-01-01,West Wine of HSM,2,15,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0220,E6,2020-01-01,West Wine of HSM,2,15,Environmental swab,Surface of gas cylinders,\,Negative,yes,yes,no,no,no,no,yes
+Env_0221,E7,2020-01-01,West Wine of HSM,2,5,Environmental swab,Styrofoam desk in front of the door,\,Positive,no,no,no,no,no,no,no
+Env_0222,E8,2020-01-01,West Wine of HSM,2,5,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0223,E9,2020-01-01,West Wine of HSM,2,5,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0224,E10,2020-01-01,West Wine of HSM,2,7,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0225,E11,2020-01-01,West Wine of HSM,2,7,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0226,E12,2020-01-01,West Wine of HSM,2,3,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0227,E13,2020-01-01,West Wine of HSM,2,3,Environmental swab,Sewage on floor,\,Negative,yes,yes,no,no,no,no,yes
+Env_0228,E14,2020-01-01,West Wine of HSM,2,4,Environmental swab,Surface of cart,\,Negative,yes,no,no,no,no,no,yes
+Env_0229,E15,2020-01-01,West Wine of HSM,2,4,Environmental swab,Surface of the door,\,Negative,yes,no,no,no,no,no,yes
+Env_0230,E16,2020-01-01,West Wine of HSM,8,30,Environmental swab,Wall,\,Negative,yes,no,yes,no,no,no,no
+Env_0231,E17,2020-01-01,West Wine of HSM,8,30,Environmental swab,Ground,\,Negative,yes,no,yes,no,no,no,no
+Env_0232,E18,2020-01-01,West Wine of HSM,8,30,Environmental swab,Domestic water,\,Negative,yes,no,yes,no,no,no,no
+Env_0233,E19,2020-01-01,West Wine of HSM,8,30,Environmental swab,Table top,\,Negative,yes,no,yes,no,no,no,no
+Env_0234,E20,2020-01-01,West Wine of HSM,8,30,Environmental swab,Foam box,\,Negative,yes,no,yes,no,no,no,no
+Env_0235,E21,2020-01-01,West Wine of HSM,8,30,Environmental swab,Sewage on floor,\,Negative,yes,no,yes,no,no,no,no
+Env_0236,E22,2020-01-01,West Wine of HSM,8,30,Environmental swab,Scissors,\,Negative,yes,no,yes,no,no,no,no
+Env_0237,E23,2020-01-01,West Wine of HSM,8,30,Environmental swab,Surface of food,\,Negative,yes,no,yes,no,no,no,no
+Env_0238,E24,2020-01-01,West Wine of HSM,8,30,Environmental swab,Surface of basin,\,Negative,yes,no,yes,no,no,no,no
+Env_0239,E25,2020-01-01,West Wine of HSM,8,30,Environmental swab,Surface of food,\,Negative,yes,no,yes,no,no,no,no
+Env_0240,E26,2020-01-01,West Wine of HSM,8,30,Environmental swab,Surface of light,\,Negative,yes,no,yes,no,no,no,no
+Env_0241,E27,2020-01-01,West Wine of HSM,8,27,Environmental swab,Domestic water,\,Negative,no,no,no,no,no,no,no
+Env_0242,E28,2020-01-01,West Wine of HSM,8,30,Environmental swab,Outside of trash cans,\,Negative,yes,no,yes,no,no,no,no
+Env_0243,E29,2020-01-01,East Wine of HSM,8,19,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0244,E30,2020-01-01,East Wine of HSM,8,19,Environmental swab,Surface of scale,\,Negative,yes,yes,no,no,no,no,yes
+Env_0245,E31,2020-01-01,East Wine of HSM,8,19,Environmental swab,Surface of apron,\,Negative,yes,yes,no,no,no,no,yes
+Env_0246,E32,2020-01-01,East Wine of HSM,8,19,Environmental swab,Basin,\,Negative,yes,yes,no,no,no,no,yes
+Env_0247,E33,2020-01-01,East Wine of HSM,8,19,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,yes
+Env_0248,E34,2020-01-01,East Wine of HSM,8,19,Environmental swab,Surface of cart,\,Negative,yes,yes,no,no,no,no,yes
+Env_0249,E35,2020-01-01,East Wine of HSM,8,19,Environmental swab,Table top,\,Negative,yes,yes,no,no,no,no,yes
+Env_0250,E36,2020-01-01,East Wine of HSM,8,19,Environmental swab,Surface of shoe,\,Negative,yes,yes,no,no,no,no,yes
+Env_0251,E37,2020-01-01,East Wine of HSM,8,19,Environmental swab,Fishing net,\,Negative,yes,yes,no,no,no,no,yes
+Env_0252,E38,2020-01-01,East Wine of HSM,8,19,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,yes
+Env_0253,E39,2020-01-01,East Wine of HSM,8,6,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,yes
+Env_0254,E40,2020-01-01,East Wine of HSM,8,6,Environmental swab,Shrimp net,\,Negative,yes,yes,no,no,no,no,yes
+Env_0255,E41,2020-01-01,East Wine of HSM,8,6,Environmental swab,Wall,\,Negative,yes,yes,no,no,no,no,yes
+Env_0256,E42,2020-01-01,East Wine of HSM,8,6,Environmental swab,Surface of food,\,Negative,yes,yes,no,no,no,no,yes
+Env_0257,E43,2020-01-01,East Wine of HSM,8,2,Environmental swab,Domestic water,\,Negative,yes,no,no,no,no,no,yes
+Env_0258,E44,2020-01-01,East Wine of HSM,11,6,Environmental swab,Trash cans,\,Negative,no,no,no,no,yes,no,no
+Env_0259,E45,2020-01-01,East Wine of HSM,11,8,Environmental swab,Blood on the ground,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0260,E46,2020-01-01,East Wine of HSM,11,9,Environmental swab,Trash cans floor,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0261,E47,2020-01-01,East Wine of HSM,11,8,Environmental swab,Table top,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0262,E48,2020-01-01,East Wine of HSM,9,22,Environmental swab,Blood on the ground in front of the door,\,Positive,no,no,yes,yes,no,no,yes
+Env_0263,E49,2020-01-01,East Wine of HSM,9,16,Environmental swab,Table top,\,Negative,no,no,no,yes,no,no,yes
+Env_0264,E50,2020-01-01,East Wine of HSM,9,12-14,Environmental swab,Blood on the ground in front of the door,\,Negative,no,no,no,yes,no,no,yes
+Env_0265,E51,2020-01-01,East Wine of HSM,8,28,Environmental swab,Inner surface of foam box,\,Negative,yes,yes,no,no,no,no,no
+Env_0266,E52,2020-01-01,East Wine of HSM,8,28,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,no
+Env_0267,E53,2020-01-01,East Wine of HSM,8,28,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,no
+Env_0268,E54,2020-01-01,East Wine of HSM,7,5,Environmental swab,Container,\,Negative,yes,yes,no,no,no,no,no
+Env_0269,E55,2020-01-01,East Wine of HSM,6,23-25,Environmental swab,Surface of apron,\,Negative,yes,yes,no,no,no,no,yes
+Env_0270,E56,2020-01-01,East Wine of HSM,6,17-19,Environmental swab,Surface of scale,\,Negative,yes,yes,no,no,no,no,yes
+Env_0271,E57,2020-01-01,East Wine of HSM,6,17-19,Environmental swab,Surface of fishing net,\,Negative,yes,yes,no,no,no,no,yes
+Env_0272,E58,2020-01-01,East Wine of HSM,6,17-19,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,yes
+Env_0273,E59,2020-01-01,East Wine of HSM,6,1-3,Environmental swab,Surface of foam box,\,Negative,yes,yes,no,no,no,no,yes
+Env_0274,E60,2020-01-01,East Wine of HSM,6,1-3,Environmental swab,Surface of food,\,Negative,yes,yes,no,no,no,no,yes
+Env_0275,E61,2020-01-01,East Wine of HSM,6,1-3,Environmental swab,Ground,\,Positive,yes,yes,no,no,no,no,yes
+Env_0276,E62,2020-01-01,East Wine of HSM,5,8-10,Environmental swab,Surface of cart,\,Negative,yes,yes,no,no,no,no,yes
+Env_0277,E63,2020-01-01,East Wine of HSM,5,1-3-5-7-9,Environmental swab,Table top,\,Negative,yes,yes,no,no,no,no,yes
+Env_0278,E64,2020-01-01,East Wine of HSM,5,1-3-5-7-9,Environmental swab,Water in fishbowl,\,Negative,yes,yes,no,no,no,no,yes
+Env_0279,E65,2020-01-01,East Wine of HSM,5,1-3-5-7-9,Environmental swab,Basin for seafood,\,Negative,yes,yes,no,no,no,no,yes
+Env_0280,E66,2020-01-01,East Wine of HSM,5,1-3-5-7-9,Environmental swab,Scale,\,Negative,yes,yes,no,no,no,no,yes
+Env_0281,E67,2020-01-01,East Wine of HSM,4,NA,Environmental swab,Table top,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0282,E68,2020-01-01,East Wine of HSM,4,NA,Environmental swab,Surface of shelf for meat selling,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0283,E69,2020-01-01,East Wine of HSM,4,NA,Environmental swab,Sewage on floor,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0284,E70,2020-01-01,East Wine of HSM,4,NA,Environmental swab,Surface of cart,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0285,E71,2020-01-01,East Wine of HSM,2,NA,Environmental swab,Shelf for meat,\,Negative,no,no,yes,yes,no,no,yes
+Env_0286,E72,2020-01-01,East Wine of HSM,2,NA,Environmental swab,Surface of cart,\,Negative,no,no,yes,yes,no,no,yes
+Env_0287,E73,2020-01-01,East Wine of HSM,2,NA,Environmental swab,Table for meta selling,\,Negative,no,no,yes,yes,no,no,yes
+Env_0288,E74,2020-01-01,East Wine of HSM,2,NA,Environmental swab,Surface of chopping board,\,Negative,no,no,no,yes,no,no,yes
+Env_0289,E75,2020-01-01,East Wine of HSM,1,NA,Environmental swab,Surface of chopping board,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0290,E76,2020-01-01,East Wine of HSM,1,NA,Environmental swab,Sewage on floor,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0291,E77,2020-01-01,East Wine of HSM,1,25-27,Environmental swab,Surface of chopping board,\,Negative,no,no,no,yes,no,no,yes
+Env_0292,E78,2020-01-01,East Wine of HSM,4,27,Environmental swab,Surface of the door,\,Negative,no,no,no,yes,no,no,yes
+Env_0293,E79,2020-01-01,East Wine of HSM,4,27,Environmental swab,Surface of cart,\,Negative,no,no,no,yes,no,no,yes
+Env_0294,E80,2020-01-01,East Wine of HSM,6,24-26,Environmental swab,Gas tank,\,Negative,yes,yes,no,no,no,yes,yes
+Env_0295,E81,2020-01-01,East Wine of HSM,7,26,Environmental swab,Sewage on floor,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0296,E82,2020-01-01,East Wine of HSM,9,24-26-28,Environmental swab,Sewage on floor,\,Negative,no,no,no,no,no,no,no
+Env_0297,E83,2020-01-01,East Wine of HSM,10,15-17,Environmental swab,Surface of cart,\,Negative,no,no,no,no,no,yes,no
+Env_0298,E84,2020-01-01,East Wine of HSM,9,16,Environmental swab,Blood on the ground,\,Negative,no,no,no,yes,no,no,yes
+Env_0299,E85,2020-01-01,East Wine of HSM,9,16,Environmental swab,Surface of chopping board,\,Negative,no,no,no,yes,no,no,yes
+Env_0300,E86,2020-01-01,East Wine of HSM,10,5,Environmental swab,Inner surface of basin,\,Negative,no,no,no,yes,no,no,yes
+Env_0301,F1,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Surface of frozen food,\,Negative,no,no,yes,no,no,no,yes
+Env_0302,F2,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Surface of frozen food,\,Negative,no,no,yes,no,no,no,yes
+Env_0303,F3,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Surface of yellow basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0304,F4,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Surface of frozen food,\,Negative,no,no,yes,no,no,no,yes
+Env_0305,F5,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,White foam,\,Negative,no,no,yes,no,no,no,yes
+Env_0306,F6,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0307,F7,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0308,F8,2020-01-01,West Wine of HSM,7,26-28,Environmental swab,Sewage on floor,\,Negative,no,no,yes,no,no,no,yes
+Env_0309,F9,2020-01-01,West Wine of HSM,11,15,Environmental swab,Surface of white basket,\,Negative,no,no,no,no,no,yes,yes
+Env_0310,F10,2020-01-01,West Wine of HSM,11,15,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,yes
+Env_0311,F11,2020-01-01,West Wine of HSM,11,15,Environmental swab,Inner surface of foam box,\,Negative,no,no,no,no,no,yes,yes
+Env_0312,F12,2020-01-01,West Wine of HSM,11,15,Environmental swab,Scale,\,Negative,no,no,no,no,no,yes,yes
+Env_0313,F13,2020-01-01,West Wine of HSM,11,15,Environmental swab,Surface of the wall ,\,Positive,no,no,no,no,no,yes,yes
+Env_0314,F14,2020-01-01,West Wine of HSM,11,15,Environmental swab,Water in basin,\,Negative,no,no,no,no,no,yes,yes
+Env_0315,F15,2020-01-01,West Wine of HSM,11,17,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,no
+Env_0316,F16,2020-01-01,West Wine of HSM,11,17,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,yes,no
+Env_0317,F17,2020-01-01,West Wine of HSM,11,17,Environmental swab,Office table,\,Negative,no,no,no,no,no,yes,no
+Env_0318,F18,2020-01-01,West Wine of HSM,11,17,Environmental swab,Bottom of door,\,Negative,no,no,no,no,no,yes,no
+Env_0319,F19,2020-01-01,West Wine of HSM,11,17,Environmental swab,Sewage on floor,\,Negative,no,no,no,no,no,yes,no
+Env_0320,F20,2020-01-01,West Wine of HSM,2,24,Environmental swab,White basket,\,Negative,yes,no,no,no,no,no,yes
+Env_0321,F21,2020-01-01,West Wine of HSM,2,24,Environmental swab,Fishing pool,\,Negative,yes,no,no,no,no,no,yes
+Env_0322,F22,2020-01-01,West Wine of HSM,2,24,Environmental swab,Knief,\,Negative,yes,no,no,no,no,no,yes
+Env_0323,F23,2020-01-01,West Wine of HSM,2,24,Environmental swab,Scale,\,Negative,yes,no,no,no,no,no,yes
+Env_0324,F24,2020-01-01,West Wine of HSM,2,24,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0325,F25,2020-01-01,West Wine of HSM,2,24,Environmental swab,Water in pool,\,Negative,yes,no,no,no,no,no,yes
+Env_0326,F26,2020-01-01,West Wine of HSM,2,24,Environmental swab,Cart,\,Negative,yes,no,no,no,no,no,yes
+Env_0327,F27,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Roller shutter,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0328,F28,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Ground,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0329,F29,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Roller shutter,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0330,F30,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Ground,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0331,F31,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Roller shutter,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0332,F32,2020-01-01,West Wine of HSM,2,19-21-23,Environmental swab,Ground,\,Negative,no,yes,yes,yes,no,no,yes
+Env_0333,F33,2020-01-01,West Wine of HSM,2,17,Environmental swab,Roller shutter,\,Positive,yes,no,no,no,no,no,yes
+Env_0334,F34,2020-01-01,West Wine of HSM,2,17,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0335,F35,2020-01-01,West Wine of HSM,2,15,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0336,F36,2020-01-01,West Wine of HSM,2,15,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0337,F37,2020-01-01,West Wine of HSM,2,18,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0338,F38,2020-01-01,West Wine of HSM,2,18,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0339,F39,2020-01-01,West Wine of HSM,2,16,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0340,F40,2020-01-01,West Wine of HSM,2,16,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0341,F41,2020-01-01,West Wine of HSM,2,20,Environmental swab,Roller shutter,\,Negative,yes,no,no,yes,no,no,yes
+Env_0342,F42,2020-01-01,West Wine of HSM,2,20,Environmental swab,Ground,\,Negative,yes,no,no,yes,no,no,yes
+Env_0343,F43,2020-01-01,West Wine of HSM,2,22,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0344,F44,2020-01-01,West Wine of HSM,2,22,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0345,F45,2020-01-01,West Wine of HSM,2,24,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0346,F46,2020-01-01,West Wine of HSM,2,24,Environmental swab,Ground,\,Positive,yes,no,no,no,no,no,yes
+Env_0347,F47,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0348,F48,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0349,F49,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0350,F50,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0351,F51,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0352,F52,2020-01-01,West Wine of HSM,2,9-11-13,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0353,F53,2020-01-01,West Wine of HSM,2,14,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0354,F54,2020-01-01,West Wine of HSM,2,14,Environmental swab,Ground,\,Positive,yes,no,no,no,no,no,yes
+Env_0355,F55,2020-01-01,West Wine of HSM,2,10-12,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0356,F56,2020-01-01,West Wine of HSM,2,10-12,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0357,F57,2020-01-01,West Wine of HSM,2,10-12,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0358,F58,2020-01-01,West Wine of HSM,2,10-12,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0359,F59,2020-01-01,West Wine of HSM,2,6-8,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0360,F60,2020-01-01,West Wine of HSM,2,6-8,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0361,F61,2020-01-01,West Wine of HSM,2,6-8,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0362,F62,2020-01-01,West Wine of HSM,2,6-8,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0363,F63,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,no,no
+Env_0364,F64,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0365,F65,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,no,no
+Env_0366,F66,2020-01-01,West Wine of HSM,2,5-7,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0367,F67,2020-01-01,West Wine of HSM,2,1-3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0368,F68,2020-01-01,West Wine of HSM,2,1-3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0369,F69,2020-01-01,West Wine of HSM,2,1-3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0370,F70,2020-01-01,West Wine of HSM,2,1-3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0371,F71,2020-01-01,West Wine of HSM,2,4,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0372,F72,2020-01-01,West Wine of HSM,2,4,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0373,F73,2020-01-01,West Wine of HSM,2,2,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0374,F74,2020-01-01,West Wine of HSM,2,2,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0375,F75,2020-01-01,West Wine of HSM,2,X5-X3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0376,F76,2020-01-01,West Wine of HSM,2,X5-X3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0377,F77,2020-01-01,West Wine of HSM,2,X5-X3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0378,F78,2020-01-01,West Wine of HSM,2,X5-X3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0379,F79,2020-01-01,West Wine of HSM,2,X4-X6,Environmental swab,Roller shutter,\,Negative,yes,yes,yes,yes,no,no,no
+Env_0380,F80,2020-01-01,West Wine of HSM,2,X4-X6,Environmental swab,Ground,\,Negative,yes,yes,yes,yes,no,no,no
+Env_0381,F81,2020-01-01,West Wine of HSM,2,X4-X6,Environmental swab,Roller shutter,\,Negative,yes,yes,yes,yes,no,no,no
+Env_0382,F82,2020-01-01,West Wine of HSM,2,X4-X6,Environmental swab,Ground,\,Negative,yes,yes,yes,yes,no,no,no
+Env_0383,F83,2020-01-01,West Wine of HSM,2,X3-X1,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0384,F84,2020-01-01,West Wine of HSM,2,X3-X1,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0385,F85,2020-01-01,West Wine of HSM,2,X3-X1,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0386,F86,2020-01-01,West Wine of HSM,2,X3-X1,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0387,F87,2020-01-01,West Wine of HSM,2,X2-X4,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0388,F88,2020-01-01,West Wine of HSM,2,X2-X4,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0389,F89,2020-01-01,West Wine of HSM,2,X2-X4,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0390,F90,2020-01-01,West Wine of HSM,2,X2-X4,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0391,F91,2020-01-01,West Wine of HSM,4,X1-X3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0392,F92,2020-01-01,West Wine of HSM,4,X1-X3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0393,F93,2020-01-01,West Wine of HSM,4,X1-X3,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0394,F94,2020-01-01,West Wine of HSM,4,X1-X3,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0395,F95,2020-01-01,West Wine of HSM,4,X2,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0396,F96,2020-01-01,West Wine of HSM,4,X2,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0397,F97,2020-01-01,West Wine of HSM,4,X6-X4,Environmental swab,Roller shutter,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0398,F98,2020-01-01,West Wine of HSM,4,X6-X4,Environmental swab,Ground,\,Positive,yes,yes,yes,yes,no,no,yes
+Env_0399,F99,2020-01-01,West Wine of HSM,4,X6-X4,Environmental swab,Roller shutter,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0400,F100,2020-01-01,West Wine of HSM,4,X6-X4,Environmental swab,Ground,\,Positive,yes,yes,yes,yes,no,no,yes
+Env_0401,F101,2020-01-01,West Wine of HSM,4,X3-X5,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0402,F102,2020-01-01,West Wine of HSM,4,X3-X5,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0403,F103,2020-01-01,West Wine of HSM,4,X3-X5,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0404,F104,2020-01-01,West Wine of HSM,4,X3-X5,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0405,F105,2020-01-01,West Wine of HSM,4,1,Environmental swab,Roller shutter,\,Negative,yes,no,no,no,no,no,yes
+Env_0406,F106,2020-01-01,West Wine of HSM,4,1,Environmental swab,Ground,\,Negative,yes,no,no,no,no,no,yes
+Env_0407,F107,2020-01-01,West Wine of HSM,4,2-4,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,no,no
+Env_0408,F108,2020-01-01,West Wine of HSM,4,2-4,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0409,F109,2020-01-01,West Wine of HSM,4,2-4,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,no,no
+Env_0410,F110,2020-01-01,West Wine of HSM,4,2-4,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0411,F111,2020-01-01,West Wine of HSM,4,3,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,yes,yes
+Env_0412,F112,2020-01-01,West Wine of HSM,4,3,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,yes
+Env_0413,F113,2020-01-01,West Wine of HSM,4,6,Environmental swab,Roller shutter,\,Negative,yes,yes,no,no,no,no,yes
+Env_0414,F114,2020-01-01,West Wine of HSM,4,6,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0415,F115,2020-01-01,West Wine of HSM,4,5,Environmental swab,Roller shutter,\,Negative,no,no,no,no,no,no,no
+Env_0416,F116,2020-01-01,West Wine of HSM,4,5,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0417,G1,2020-01-01,West Wine of HSM,7,27,Environmental swab,Surface of basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0418,G2,2020-01-01,West Wine of HSM,7,27,Environmental swab,Wall,\,Negative,no,no,yes,no,no,no,yes
+Env_0419,G3,2020-01-01,West Wine of HSM,7,27,Environmental swab,Table top,\,Negative,no,no,yes,no,no,no,yes
+Env_0420,G4,2020-01-01,West Wine of HSM,7,27,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0421,G5,2020-01-01,West Wine of HSM,7,27,Environmental swab,Scissors,\,Negative,no,no,yes,no,no,no,yes
+Env_0422,G6,2020-01-01,West Wine of HSM,7,29,Environmental swab,Surface of basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0423,G7,2020-01-01,West Wine of HSM,7,29,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0424,G8,2020-01-01,West Wine of HSM,7,29,Environmental swab,Surface of frozen food,\,Negative,no,no,yes,no,no,no,yes
+Env_0425,G9,2020-01-01,West Wine of HSM,7,29,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0426,G10,2020-01-01,West Wine of HSM,7,29,Environmental swab,Wall,\,Negative,no,no,yes,no,no,no,yes
+Env_0427,G11,2020-01-01,West Wine of HSM,7,29,Environmental swab,Sewage in bucket,\,Negative,no,no,yes,no,no,no,yes
+Env_0428,G12,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Surface of basket,\,Negative,no,no,yes,no,yes,no,yes
+Env_0429,G13,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Surface of basket,\,Negative,no,no,yes,no,yes,no,yes
+Env_0430,G14,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Wall,\,Negative,no,no,yes,no,yes,no,yes
+Env_0431,G15,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Scale,\,Negative,no,no,yes,no,yes,no,yes
+Env_0432,G16,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Water in pool,\,Negative,no,no,yes,no,yes,no,yes
+Env_0433,G17,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Inner surface of trush cans,\,Negative,no,no,yes,no,yes,no,yes
+Env_0434,G18,2020-01-01,West Wine of HSM,7,34,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0435,G19,2020-01-01,West Wine of HSM,7,34,Environmental swab,Wall,\,Negative,no,no,yes,no,no,no,yes
+Env_0436,G20,2020-01-01,West Wine of HSM,7,34,Environmental swab,Inner surface of foam box,\,Negative,no,no,yes,no,no,no,yes
+Env_0437,G21,2020-01-01,West Wine of HSM,7,34,Environmental swab,Inner surface of white basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0438,G22,2020-01-01,West Wine of HSM,7,34,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,yes
+Env_0439,G23,2020-01-01,West Wine of HSM,7,34,Environmental swab,Bucket,\,Negative,no,no,yes,no,no,no,yes
+Env_0440,G24,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Scale,\,Negative,no,no,no,no,no,yes,no
+Env_0441,G25,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Surface of cart,\,Negative,no,no,no,no,no,yes,no
+Env_0442,G26,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Surface of Vegetable,\,Negative,no,no,no,no,no,yes,no
+Env_0443,G27,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Surface of lift,\,Negative,no,no,no,no,no,yes,no
+Env_0444,G28,2020-01-01,West Wine of HSM,7,35-37,Environmental swab,Ground,\,Negative,no,no,no,no,no,yes,no
+Env_0445,G29,2020-01-01,West Wine of HSM,7,38,Environmental swab,Cart,\,Negative,yes,yes,no,no,no,no,yes
+Env_0446,G30,2020-01-01,West Wine of HSM,7,38,Environmental swab,Surface of lift,\,Negative,yes,yes,no,no,no,no,yes
+Env_0447,G31,2020-01-01,West Wine of HSM,7,38,Environmental swab,Ground,\,Negative,yes,yes,no,no,no,no,yes
+Env_0448,G32,2020-01-01,West Wine of HSM,7,38,Environmental swab,Drainage outlet,\,Negative,yes,yes,no,no,no,no,yes
+Env_0449,G33,2020-01-01,West Wine of HSM,7,38,Environmental swab,Water in pool,\,Negative,yes,yes,no,no,no,no,yes
+Env_0450,G34,2020-01-01,West Wine of HSM,7,38,Environmental swab,Water in pool,\,Negative,yes,yes,no,no,no,no,yes
+Env_0451,G35,2020-01-01,West Wine of HSM,7,29,Environmental swab,Filter,\,Negative,no,no,yes,no,no,no,yes
+Env_0452,G36,2020-01-01,West Wine of HSM,7,31-33,Environmental swab,Filter,\,Negative,no,no,yes,no,yes,no,yes
+Env_0453,G37,2020-01-01,West Wine of HSM,7,30-32,Environmental swab,Filter,\,Negative,no,no,yes,no,no,no,yes
+Env_0454,G38,2020-01-01,West Wine of HSM,7,34,Environmental swab,Filter,\,Negative,no,no,yes,no,no,no,yes
+Env_0455,G39,2020-01-01,West Wine of HSM,7,25,Environmental swab,Filter,\,Negative,no,no,no,no,no,yes,yes
+Env_0456,G40,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Inner surface of trush cans,\,Negative,yes,no,yes,no,no,no,yes
+Env_0457,G41,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Surface of frozen food,\,Negative,yes,no,yes,no,no,no,yes
+Env_0458,G42,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Inner surface of red basket,\,Negative,yes,no,yes,no,no,no,yes
+Env_0459,G43,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Scale,\,Negative,yes,no,yes,no,no,no,yes
+Env_0460,G44,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Surface of calculator,\,Negative,yes,no,yes,no,no,no,yes
+Env_0461,G45,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Ground,\,Negative,yes,no,yes,no,no,no,yes
+Env_0462,G46,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Wall,\,Negative,yes,no,yes,no,no,no,yes
+Env_0463,G47,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Water in Bucket,\,Negative,yes,no,yes,no,no,no,yes
+Env_0464,G48,2020-01-01,West Wine of HSM,8,26-28,Environmental swab,Scissors,\,Negative,yes,no,yes,no,no,no,yes
+Env_0465,G49,2020-01-01,West Wine of HSM,8,27,Environmental swab,Inner surface of blue basket,\,Negative,no,no,no,no,no,no,no
+Env_0466,G50,2020-01-01,West Wine of HSM,8,27,Environmental swab,Water in basin,\,Negative,no,no,no,no,no,no,no
+Env_0467,G51,2020-01-01,West Wine of HSM,8,27,Environmental swab,Ground,\,Negative,no,no,no,no,no,no,no
+Env_0468,G52,2020-01-01,West Wine of HSM,8,27,Environmental swab,Scale,\,Negative,no,no,no,no,no,no,no
+Env_0469,G53,2020-01-01,West Wine of HSM,8,27,Environmental swab,Water in Bucket,\,Negative,no,no,no,no,no,no,no
+Env_0470,G54,2020-01-01,West Wine of HSM,8,37,Environmental swab,Chopping block,\,Negative,no,no,yes,no,no,no,yes
+Env_0471,G55,2020-01-01,West Wine of HSM,8,37,Environmental swab,Inner surface of white box,\,Negative,no,no,yes,no,no,no,yes
+Env_0472,G56,2020-01-01,West Wine of HSM,8,37,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0473,G57,2020-01-01,West Wine of HSM,8,37,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0474,G58,2020-01-01,West Wine of HSM,8,37,Environmental swab,Scissors,\,Negative,no,no,yes,no,no,no,yes
+Env_0475,G59,2020-01-01,West Wine of HSM,8,37,Environmental swab,Outside surface of freezer,\,Negative,no,no,yes,no,no,no,yes
+Env_0476,G60,2020-01-01,West Wine of HSM,8,37,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0477,G61,2020-01-01,West Wine of HSM,8,33,Environmental swab,Inner surface of white basket,\,Negative,no,no,yes,no,no,no,no
+Env_0478,G62,2020-01-01,West Wine of HSM,8,33,Environmental swab,Cart,\,Negative,no,no,yes,no,no,no,no
+Env_0479,G63,2020-01-01,West Wine of HSM,8,33,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,no
+Env_0480,G64,2020-01-01,West Wine of HSM,8,33,Environmental swab,Chopping board,\,Negative,no,no,yes,no,no,no,no
+Env_0481,G65,2020-01-01,West Wine of HSM,8,33,Environmental swab,Water in Bucket,\,Negative,no,no,yes,no,no,no,no
+Env_0482,G66,2020-01-01,West Wine of HSM,8,33,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,no
+Env_0483,G67,2020-01-01,West Wine of HSM,8,35,Environmental swab,Inner surface of red basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0484,G68,2020-01-01,West Wine of HSM,8,35,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0485,G69,2020-01-01,West Wine of HSM,8,35,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,yes
+Env_0486,G70,2020-01-01,West Wine of HSM,8,35,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0487,G71,2020-01-01,West Wine of HSM,8,35,Environmental swab,Outside surface of freezer,\,Negative,no,no,yes,no,no,no,yes
+Env_0488,G72,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Ground,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0489,G73,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Cart,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0490,G74,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Scale,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0491,G75,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Drainage outlet,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0492,G76,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Water in white box,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0493,G77,2020-01-01,West Wine of HSM,8,36-38,Environmental swab,Feather removal machine,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0494,G78,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Inner surface of white basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0495,G79,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0496,G80,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Inner surface of trush cans,\,Negative,no,no,yes,no,no,no,yes
+Env_0497,G81,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Surface of calculator,\,Negative,no,no,yes,no,no,no,yes
+Env_0498,G82,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Inner surface of yellow basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0499,G83,2020-01-01,West Wine of HSM,8,32-34,Environmental swab,Iron shelf,\,Negative,no,no,yes,no,no,no,yes
+Env_0500,G84,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Inner surface of blue basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0501,G85,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Calculator,\,Negative,no,no,yes,no,no,no,yes
+Env_0502,G86,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0503,G87,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Scissors,\,Negative,no,no,yes,no,no,no,yes
+Env_0504,G88,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0505,G89,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Iron shelf,\,Negative,no,no,yes,no,no,no,yes
+Env_0506,G90,2020-01-01,West Wine of HSM,8,29-31,Environmental swab,Knief,\,Negative,no,no,yes,no,no,no,yes
+Env_0507,G91,2020-01-01,West Wine of HSM,8,27,Environmental swab,Sewage on floor,\,Negative,no,no,no,no,no,no,no
+Env_0508,G92,2020-01-01,West Wine of HSM,8,19-21-23,Environmental swab,Chopping block and Knief,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0509,G93,2020-01-01,West Wine of HSM,8,19-21-23,Environmental swab,Sewage,\,Positive,yes,no,yes,yes,no,no,yes
+Env_0510,G94,2020-01-01,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0511,G95,2020-01-01,West Wine of HSM,8,25,Environmental swab,Knier,\,Negative,no,no,yes,no,no,no,yes
+Env_0512,G96,2020-01-01,West Wine of HSM,8,25,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0513,G97,2020-01-01,West Wine of HSM,8,25,Environmental swab,Table top,\,Negative,no,no,yes,no,no,no,yes
+Env_0514,G98,2020-01-01,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0515,G99,2020-01-01,West Wine of HSM,8,25,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,yes
+Env_0516,HJ200001-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Table top,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0517,HJ200002-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Scale,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0518,HJ200003-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0519,HJ200004-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0520,HJ200005-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Basket,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0521,HJ200006-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Feather removal machine,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0522,HJ200007-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Table,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0523,HJ200008-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Inner surface of refrigerator,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0524,HJ200009-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Inside of feather removal machine,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0525,HJ200010-20200112-1,2020-01-12,West Wine of HSM,9,34-36,Environmental swab,Outside surface of refrigerator,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0526,HJ200011-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Wall,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0527,HJ200012-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,White basket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0528,HJ200013-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Chopping block,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0529,HJ200014-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Container,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0530,HJ200015-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Container,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0531,HJ200016-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Red basket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0532,HJ200017-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Scale,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0533,HJ200018-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Bucket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0534,HJ200019-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Bucket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0535,HJ200020-20200112-1,2020-01-12,West Wine of HSM,9,38,Environmental swab,Wall,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0536,HJ200021-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Ground,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0537,HJ200022-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Outside surface of freezer,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0538,HJ200023-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Wall,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0539,HJ200024-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Blue mop,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0540,HJ200025-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Tongs,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0541,HJ200026-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Ground,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0542,HJ200027-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Bucket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0543,HJ200028-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Basket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0544,HJ200029-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Surface of the door,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0545,HJ200030-20200112-1,2020-01-12,West Wine of HSM,9,35-37,Environmental swab,Container in inner room,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0546,HJ200031-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0547,HJ200032-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Foam box,\,Negative,no,no,yes,no,no,no,yes
+Env_0548,HJ200033-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Wall,\,Negative,no,no,yes,no,no,no,yes
+Env_0549,HJ200034-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0550,HJ200035-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Outside surface of freezer,\,Negative,no,no,yes,no,no,no,yes
+Env_0551,HJ200036-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Iron container,\,Negative,no,no,yes,no,no,no,yes
+Env_0552,Q37,2020-01-12,West Wine of HSM,8,25,Environmental swab,Inner surface of the freezer,\,Positive,no,no,yes,no,no,no,yes
+Env_0553,HJ200038-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Knief,\,Negative,no,no,yes,no,no,no,yes
+Env_0554,HJ200039-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Scale,\,Negative,no,no,yes,no,no,no,yes
+Env_0555,HJ200040-20200112-1,2020-01-12,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0556,HJ200041-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Feather removal machine,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0557,HJ200042-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Basket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0558,HJ200043-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Mop,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0559,HJ200044-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Sink,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0560,HJ200045-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Iron container,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0561,HJ200046-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Basket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0562,HJ200047-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Bucket,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0563,HJ200048-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Inner surface of freezer,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0564,HJ200049-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Dustpan,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0565,HJ200050-20200112-1,2020-01-12,West Wine of HSM,8,36-38,Environmental swab,Table top,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0566,HJ200051-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0567,HJ200052-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0568,HJ200053-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Outside surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0569,HJ200054-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0570,HJ200055-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Bucket,\,Negative,no,no,yes,no,no,no,yes
+Env_0571,HJ200056-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0572,HJ200057-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Table top,\,Negative,no,no,yes,no,no,no,yes
+Env_0573,HJ200058-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0574,HJ200059-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Wall,\,Negative,no,no,yes,no,no,no,yes
+Env_0575,HJ200060-20200112-1,2020-01-12,West Wine of HSM,8,37,Environmental swab,Iron shelf,\,Negative,no,no,yes,no,no,no,yes
+Env_0576,Q61,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Cart1,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0577,HJ200062-20200112-1,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0578,HJ200063-20200112-1,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Basket,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0579,Q64,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Cart2,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0580,HJ200065-20200112-1,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,White box,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0581,HJ200066-20200112-1,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Iron container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0582,HJ200067-20200112-1,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Bucket,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0583,Q68,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Ground,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0584,Q69,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Feather removal machine,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0585,Q70,2020-01-12,West Wine of HSM,6,29-31-33,Environmental swab,Iron container in inner room,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0586,WH-01,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0587,WH-02,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0588,WH-04,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0589,WH-05,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0590,WH-06,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0591,WH-07,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0592,WH-08,2020-01-22,Other market (Jiang'han district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0593,WH-09,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0594,WH-10,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0595,WH-11,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0596,WH-12,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0597,WH-13,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0598,WH-14,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0599,WH-15,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0600,WH-16,2020-01-22,Other market (Jiang'an district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0601,WH-17,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab (floor surface swab),\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0602,WH-18,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0603,WH-19,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0604,WH-20,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0605,WH-21,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0606,WH-22,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0607,WH-23,2020-01-22,Other market (Dongxihu district),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0608,HG-01,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0609,HG-02,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0610,HG-04,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0611,HG-06,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0612,HG-07,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Chopping block,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0613,HG-08,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Environmental swabs,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0614,HG-09,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Chopping block,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0615,HG-10,2020-01-22,Other market (Huanggang city),NA,NA,Environmental swab,Chopping block,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0616,10-31-In1,2020-01-23,West Wine of HSM,10,31,Environmental swab,Environmental swab,\,Negative,no,no,no,no,yes,no,no
+Env_0617,10-31-In2,2020-01-23,West Wine of HSM,10,31,Environmental swab,Environmental swab,\,Negative,no,no,no,no,yes,no,no
+Env_0618,10-31-In3,2020-01-23,West Wine of HSM,10,31,Environmental swab,Environmental swab,\,Negative,no,no,no,no,yes,no,no
+Env_0619,10-31-abv2,2020-01-23,West Wine of HSM,10,31,Environmental swab,Environmental swab,\,Negative,no,no,no,no,yes,no,no
+Env_0620,06-29-abv1,2020-01-23,West Wine of HSM,6,29,Environmental swab,Environmental swab,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0621,08-25-abv1,2020-01-23,West Wine of HSM,8,25,Environmental swab,Environmental swab,\,Negative,no,no,yes,no,no,no,yes
+Env_0622,06-32-abv1,2020-01-23,West Wine of HSM,6,32,Environmental swab,Environmental swab,\,Negative,no,yes,no,no,no,no,no
+Env_0623,10-23-abv1,2020-01-23,West Wine of HSM,10,23,Environmental swab,Environmental swab,\,Negative,no,no,no,no,no,no,no
+Env_0624,11-31-abv1,2020-01-23,West Wine of HSM,11,31,Environmental swab,Environmental swab,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0625,08-25-abv1,2020-01-23,West Wine of HSM,8,25,Environmental swab,Environmental swab,\,Negative,no,no,yes,no,no,no,yes
+Env_0626,09-23-abv1,2020-01-23,West Wine of HSM,9,23,Environmental swab,Environmental swab,\,Negative,no,no,no,no,no,no,no
+Env_0627,06-29-abv1,2020-01-23,West Wine of HSM,6,29,Environmental swab,Environmental swab,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0628,12-15.17-dor,2020-01-23,West Wine of HSM,12,15-17,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0629,12-20.24-dor,2020-01-23,West Wine of HSM,12,20-24,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0630,2-9.11.13-dor,2020-01-23,West Wine of HSM,2,9-11-13,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0631,7-22.24-dor,2020-01-23,West Wine of HSM,7,22-24,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,no,no,yes
+Env_0632,7-23-dor,2020-01-23,West Wine of HSM,7,23,Environmental swab,Surface of the door,\,Negative,yes,no,no,yes,no,no,no
+Env_0633,5-58-dor,2020-01-23,West Wine of HSM,5,28,Environmental swab,Surface of the door,\,Negative,no,yes,no,yes,no,no,yes
+Env_0634,10-29.31-dor,2020-01-23,West Wine of HSM,10,29-31,Environmental swab,Surface of the door,\,Negative,no,no,no,no,yes,no,no
+Env_0635,5-7-dor,2020-01-23,West Wine of HSM,5,7,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0636,2-20-dor,2020-01-23,West Wine of HSM,3,20,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,no
+Env_0637,12-32-dor,2020-01-23,West Wine of HSM,12,32,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,yes,no
+Env_0638,5-5.7-dor2,2020-01-23,West Wine of HSM,5,5-7,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0639,08-25-abv1,2020-01-25,West Wine of HSM,8,25,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0640,10-29.31-dor,2020-01-25,West Wine of HSM,10,29-31,Environmental swab,Surface of the door,\,Negative,no,no,no,no,yes,no,no
+Env_0641,1/27/2009,2020-01-27,West Wine of HSM (Sewers or sewerage wells),3,4,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0642,1/27/2011,2020-01-27,West Wine of HSM (Sewers or sewerage wells),3,13,Environmental swab,Water drain,\,Negative,yes,no,no,no,no,no,no
+Env_0643,1/27/2012,2020-01-27,West Wine of HSM (Sewers or sewerage wells),1,2,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0644,1/27/2013,2020-01-27,West Wine of HSM (Sewers or sewerage wells),1,7-9,Environmental swab,Water drain,\,Negative,no,yes,no,no,no,no,yes
+Env_0645,1/27/2014,2020-01-27,West Wine of HSM (Sewers or sewerage wells),2,1-3,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0646,1/27/2015,2020-01-27,West Wine of HSM (Sewers or sewerage wells),2,16-18,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0647,1/27/2016,2020-01-27,West Wine of HSM (Sewers or sewerage wells),4,22,Environmental swab,Water drain,\,Negative,no,no,no,no,no,yes,yes
+Env_0648,1/27/2017,2020-01-27,West Wine of HSM (Sewers or sewerage wells),4,1,Environmental swab,Water drain,\,Negative,yes,no,no,no,no,no,yes
+Env_0649,1/27/2018,2020-01-27,West Wine of HSM (Sewers or sewerage wells),5,4,Environmental swab,Water drain,\,Negative,no,no,no,yes,no,yes,yes
+Env_0650,1/27/2019,2020-01-27,West Wine of HSM (Sewers or sewerage wells),15,19-21,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0651,1/27/2020,2020-01-27,West Wine of HSM (Sewers or sewerage wells),5,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0652,1/27/2021,2020-01-27,West Wine of HSM (Sewers or sewerage wells),6,9,Environmental swab,Water drain,\,Negative,no,yes,no,no,no,no,no
+Env_0653,1/27/2022,2020-01-27,West Wine of HSM (Sewers or sewerage wells),6,24,Environmental swab,Water drain,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0654,1/27/2024,2020-01-27,West Wine of HSM (Sewers or sewerage wells),7,15-17,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0655,1/27/2025,2020-01-27,West Wine of HSM (Sewers or sewerage wells),7,2-4,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0656,1/27/2026,2020-01-27,West Wine of HSM (Sewers or sewerage wells),8,32-36,Environmental swab,Water drain,\,Negative,no,no,yes,no,no,no,yes
+Env_0657,1/27/2028,2020-01-27,West Wine of HSM (Sewers or sewerage wells),7,34,Environmental swab,Water drain,\,Negative,no,no,yes,no,no,no,yes
+Env_0658,1/27/1930,2020-01-27,West Wine of HSM (Sewers or sewerage wells),8,6-8,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0659,1/27/1931,2020-01-27,West Wine of HSM (Sewers or sewerage wells),8,11-13,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0660,1/27/1933,2020-01-27,West Wine of HSM (Sewers or sewerage wells),6,29-33,Environmental swab,Water drain,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0661,1/27/1934,2020-01-27,West Wine of HSM (Sewers or sewerage wells),9,1-3,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0662,1/27/1935,2020-01-27,West Wine of HSM (Sewers or sewerage wells),9,34-36,Environmental swab,Water drain,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0663,1/27/1936,2020-01-27,West Wine of HSM (Sewers or sewerage wells),10,9,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0664,1/27/1937,2020-01-27,West Wine of HSM (Sewers or sewerage wells),10,4,Environmental swab,Water drain,\,Positive,yes,yes,no,yes,no,no,yes
+Env_0665,1/27/1940,2020-01-27,West Wine of HSM (Sewers or sewerage wells),10,31,Environmental swab,Water drain,\,Negative,no,no,no,no,yes,no,no
+Env_0666,1/27/1941,2020-01-27,West Wine of HSM (Sewers or sewerage wells),11,2,Environmental swab,Water drain,\,Negative,yes,yes,no,yes,no,no,no
+Env_0667,1/27/1943,2020-01-27,West Wine of HSM (Sewers or sewerage wells),11,32,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0668,1/27/1944,2020-01-27,West Wine of HSM (Sewers or sewerage wells),12,35,Environmental swab,Water drain,\,Negative,no,no,no,no,no,yes,yes
+Env_0669,1/27/1945,2020-01-27,West Wine of HSM (Sewers or sewerage wells),12,19,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0670,1/27/1948,2020-01-27,West Wine of HSM (Sewers or sewerage wells),12,36-38,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0671,1/27/1949,2020-01-27,West Wine of HSM (Sewers or sewerage wells),13,7-8,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0672,1/27/1950,2020-01-27,West Wine of HSM (Sewers or sewerage wells),15,9-11,Environmental swab,Water drain,\,Negative,no,yes,no,no,no,no,no
+Env_0673,1/27/1951,2020-01-27,West Wine of HSM (Sewers or sewerage wells),15,20,Environmental swab,Water drain,\,Negative,yes,no,no,no,no,no,yes
+Env_0674,1/27/1952,2020-01-27,West Wine of HSM (Sewers or sewerage wells),15,22,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0675,1/27/1953,2020-01-27,West Wine of HSM (Sewers or sewerage wells),9,9-13,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0676,1/27/1954,2020-01-27,West Wine of HSM (Sewers or sewerage wells),11,6,Environmental swab,Water drain,\,Negative,no,yes,no,no,no,no,no
+Env_0677,1/27/1956,2020-01-27,West Wine of HSM (Sewers or sewerage wells),13,40-42,Environmental swab,Water drain,\,Negative,no,no,no,no,no,yes,yes
+Env_0678,1/27/1957,2020-01-27,West Wine of HSM (Sewers or sewerage wells),14,41,Environmental swab,Water drain,\,Negative,no,no,no,no,no,yes,yes
+Env_0679,1/29/2001,2020-01-29,East Wine of HSM (Sewers or sewerage wells),2,5-7-9,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,no
+Env_0680,1/29/2002,2020-01-29,East Wine of HSM (Sewers or sewerage wells),2,50-52,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0681,1/29/2003,2020-01-29,East Wine of HSM (Sewers or sewerage wells),3,52,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0682,1/29/2004,2020-01-29,East Wine of HSM (Sewers or sewerage wells),4,5-7-9,Environmental swab,Water drain,\,Positive,no,no,no,no,no,no,no
+Env_0683,1/29/2005,2020-01-29,East Wine of HSM (Sewers or sewerage wells),4,36,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0684,1/29/2006,2020-01-29,East Wine of HSM (Sewers or sewerage wells),4,16,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,no,yes
+Env_0685,1/29/2007,2020-01-29,East Wine of HSM (Sewers or sewerage wells),5,42,Environmental swab,Water drain,\,Negative,yes,no,no,no,no,no,yes
+Env_0686,1/29/2008,2020-01-29,East Wine of HSM (Sewers or sewerage wells),5,11,Environmental swab,Water drain,\,Positive,yes,yes,no,yes,no,no,no
+Env_0687,1/29/2009,2020-01-29,East Wine of HSM (Sewers or sewerage wells),6,35,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,yes
+Env_0688,1/29/2010,2020-01-29,East Wine of HSM (Sewers or sewerage wells),6,17-19,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,yes
+Env_0689,1/29/2011,2020-01-29,East Wine of HSM (Sewers or sewerage wells),7,30,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0690,1/29/2012,2020-01-29,East Wine of HSM (Sewers or sewerage wells),7,8,Environmental swab,Water drain,\,Negative,yes,yes,no,no,no,no,no
+Env_0691,1/29/2013,2020-01-29,East Wine of HSM (Sewers or sewerage wells),8,38,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0692,1/29/2014,2020-01-29,East Wine of HSM (Sewers or sewerage wells),8,12,Environmental swab,Water drain,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0693,1/29/2015,2020-01-29,East Wine of HSM,NA,NA,Environmental swab,Garbage,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0694,1/29/2016,2020-01-29,East Wine of HSM (Sewers or sewerage wells),11,13,Environmental swab,Water drain,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0695,1/29/2017,2020-01-29,East Wine of HSM (Sewers or sewerage wells),9,51,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0696,1/29/2018,2020-01-29,East Wine of HSM (Sewers or sewerage wells),9,11,Environmental swab,Water drain,\,Negative,yes,yes,yes,yes,no,yes,yes
+Env_0697,1/29/2019,2020-01-29,East Wine of HSM (Sewers or sewerage wells),9,35,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0698,1/29/2020,2020-01-29,East Wine of HSM (Sewers or sewerage wells),10,5,Environmental swab,Water drain,\,Negative,no,no,no,yes,no,no,yes
+Env_0699,1/29/2021,2020-01-29,East Wine of HSM (Sewers or sewerage wells),11,29,Environmental swab,Water drain,\,Negative,no,yes,no,no,no,yes,no
+Env_0700,1/29/2022,2020-01-29,East Wine of HSM,11,13,Environmental swab,Ground,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0701,1/29/2023,2020-01-29,East Wine of HSM,11,9,Environmental swab,Ground,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0702,1/29/2024,2020-01-29,East Wine of HSM (Sewers or sewerage wells),11,7-13,Environmental swab,Water drain,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0703,1/29/2025,2020-01-29,East Wine of HSM,NA,NA,Environmental swab,Garbage,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0704,1/27/1955,2020-01-29,East Wine of HSM (Sewers or sewerage wells),13,18-20,Environmental swab,Water drain,\,Negative,yes,no,no,yes,no,no,yes
+Env_0705,7-26-BX,2020-02-03,West Wine of HSM,7,26,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0706,7-26-K,2020-02-03,West Wine of HSM,7,26,Environmental swab,Basket,\,Negative,no,no,yes,no,no,no,yes
+Env_0707,7-26-PSW,2020-02-03,West Wine of HSM,7,26,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,yes
+Env_0708,7-26-PSN,2020-02-03,West Wine of HSM,7,26,Environmental swab,Drainage outlet,\,Negative,no,no,yes,no,no,no,yes
+Env_0709,7-26-ST,2020-02-03,West Wine of HSM,7,26,Environmental swab,Glove,\,Negative,no,no,yes,no,no,no,yes
+Env_0710,7-26-JZ,2020-02-03,West Wine of HSM,7,26,Environmental swab,Scissors,\,Negative,no,no,yes,no,no,no,yes
+Env_0711,7-26-DB,2020-02-03,West Wine of HSM,7,26,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0712,7-26-DH,2020-02-03,West Wine of HSM,7,26,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0713,8-25-LJ,2020-02-03,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0714,8-25-BX,2020-02-03,West Wine of HSM,8,25,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0715,8-25-D,2020-02-03,West Wine of HSM,8,25,Environmental swab,Knief,\,Negative,no,no,yes,no,no,no,yes
+Env_0716,8-25-CK,2020-02-03,West Wine of HSM,8,25,Environmental swab,Sewage,\,Negative,no,no,yes,no,no,no,yes
+Env_0717,8-25-D,2020-02-03,West Wine of HSM,8,25,Environmental swab,Ground inside the stalls,\,Positive,no,no,yes,no,no,no,yes
+Env_0718,8-25-DZ,2020-02-03,West Wine of HSM,8,25,Environmental swab,Surface of packing bag,\,Negative,no,no,yes,no,no,no,yes
+Env_0719,8-25-M1,2020-02-03,West Wine of HSM,8,25,Environmental swab,Ground inside the stalls,\,Positive,no,no,yes,no,no,no,yes
+Env_0720,8-25-M2,2020-02-03,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0721,WS-XZ1,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0722,WS-XZ2,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0723,WS-XZ3,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0724,WS-SF1,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0725,WS-SF2,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0726,WS-SF3,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0727,WS-XL1,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0728,WS-XL2,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0729,WS-XL3,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0730,WS-KJ1,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0731,WS-KJ2,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0732,WS-KJ3,2020-02-05,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0733,WS-SXN1,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0734,WS-SXN2,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0735,WS-SXN3,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0736,WS-SLD1,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0737,WS-SLD2,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0738,WS-SLD3,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0739,WS-SZ1,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0740,WS-SZ2,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0741,WS-SZ3,2020-02-05,Sewage well close to HSM,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0742,WS-1-1,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0743,WS-1-2,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0744,WS-1-3,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0745,WS-1-4,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0746,WS-2-1,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0747,WS-2-2,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0748,WS-2-3,2020-02-05,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0749,WS-3-1,2020-02-05,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0750,WS-3-2,2020-02-05,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0751,WS-4-1,2020-02-05,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0752,WS-4-2,2020-02-05,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0753,8-25-D1,2020-02-09,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0754,8-25-D2,2020-02-09,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0755,8-25-D3,2020-02-09,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0756,8-25-Long,2020-02-09,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0757,8-25-Bing,2020-02-09,West Wine of HSM,8,25,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0758,Outside-1,2020-02-09,West Wine of HSM (Sewers or sewerage wells),1,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0759,Outside-5,2020-02-09,West Wine of HSM (Sewers or sewerage wells),5,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0760,Outside-7,2020-02-09,West Wine of HSM (Sewers or sewerage wells),7,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0761,Outside-9,2020-02-09,West Wine of HSM (Sewers or sewerage wells),9,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0762,zong-1,2020-02-09,West Wine of HSM (Sewers or sewerage wells),1,NA,Environmental swab,Water drain,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0763,Vertical-3,2020-02-09,West Wine of HSM (Sewers or sewerage wells),3,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0764,Vertical-5,2020-02-09,West Wine of HSM (Sewers or sewerage wells),5,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0765,Vertical-7,2020-02-09,West Wine of HSM (Sewers or sewerage wells),7,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0766,Vertical-9,2020-02-09,West Wine of HSM (Sewers or sewerage wells),9,NA,Environmental swab,Water drain,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0767,HXJMHL-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0768,HXJMHL-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0769,HXJMHL-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0770,JXRJ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0771,JXRJ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0772,JXRJ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0773,HGXQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0774,HGXQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0775,HGXQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0776,JSYY-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0777,JSYY-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0778,JSYY-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0779,YGSQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0780,YGSQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0781,YGSQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0782,HHXQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0783,HHXQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0784,HHXQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0785,FQXQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0786,FQXQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0787,FQXQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0788,CSSQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0789,CSSQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0790,CSSQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0791,HXL-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0792,HXL-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0793,HXL-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0794,HYXQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0795,HYXQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0796,HYXQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0797,YCHC2-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0798,YCHC2-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0799,YCHC2-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0800,HXJC4-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0801,HXJC4-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0802,HXJC4-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0803,HKCQ-1-1,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0804,HKCQ-1-2,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0805,HKCQ-1-3,2020-02-09,Sewerage well in the surrounding areas,NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0806,W-8-25-D1,2020-02-15,West Wine of HSM,8,25,Environmental swab,Ground inside the stalls,\,Positive,no,no,yes,no,no,no,yes
+Env_0807,W-8-25-D2,2020-02-15,West Wine of HSM,8,25,Environmental swab,Ground inside the stalls,\,Positive,no,no,yes,no,no,no,yes
+Env_0808,W-8-25-L,2020-02-15,West Wine of HSM,8,25,Environmental swab,Container,\,Positive,no,no,yes,no,no,no,yes
+Env_0809,W-8-25-L2,2020-02-15,West Wine of HSM,8,25,Environmental swab,Container,\,Positive,no,no,yes,no,no,no,yes
+Env_0810,EWS-1#-1,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0811,EWS-1#-2,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0812,EWS-2#-1,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0813,EWS-2#-2,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0814,EWS-3#-1,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0815,EWS-3#-2,2020-02-15,East Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0816,WWS-1#,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0817,WWS-1#-2,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0818,WWS-1#-3,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0819,WWS-2#-1,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0820,WWS-2#-2,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0821,WWS-2#-3,2020-02-15,West Wine of HSM (Sewers or sewerage wells),NA,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0822,E-4-3.5,2020-02-15,East Wine of HSM (Sewers or sewerage wells),4,3-5,Environmental swab,Water drain,\,Negative,yes,yes,yes,no,no,no,yes
+Env_0823,E-4-7.9,2020-02-15,East Wine of HSM (Sewers or sewerage wells),4,7-9,Environmental swab,Water drain,\,Negative,no,no,no,no,no,no,no
+Env_0824,E-5-17,2020-02-15,East Wine of HSM (Sewers or sewerage wells),5,17,Environmental swab,Water drain,\,Negative,no,no,no,yes,no,no,yes
+Env_0825,w-10-4,2020-02-15,West Wine of HSM (Sewers or sewerage wells),10,4,Environmental swab,Water drain,\,Negative,yes,yes,no,yes,no,no,yes
+Env_0826,w-4-28,2020-02-15,West Wine of HSM (Sewers or sewerage wells),4,28,Environmental swab,Water drain,\,Negative,no,no,yes,no,no,no,yes
+Env_0827,w-6-29-32,2020-02-15,West Wine of HSM (Sewers or sewerage wells),6,29-32,Environmental swab,Water drain,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0828,w-6-29-33,2020-02-15,West Wine of HSM (Sewers or sewerage wells),6,29-33,Environmental swab,Water drain,\,Positive,yes,no,yes,yes,yes,no,yes
+Env_0829,w-zong-1,2020-02-15,West Wine of HSM (Sewers or sewerage wells),1,NA,Environmental swab,Water drain,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0830,wws-1#-0,2020-02-15,West Wine of HSM (Sewers or sewerage wells),1,NA,Environmental swab,Sewage well,\,Positive,NA,NA,NA,NA,NA,NA,NA
+Env_0831,C1,2020-02-20,West Wine of HSM,6,18,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,no,yes,no,no,no
+Env_0832,C2,2020-02-20,West Wine of HSM,6,18,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,no,yes,no,no,no
+Env_0833,C3,2020-02-20,West Wine of HSM,6,18,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,no,yes,no,no,no
+Env_0834,C4,2020-02-20,West Wine of HSM,6,18,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,no,yes,no,no,no
+Env_0835,C5,2020-02-20,West Wine of HSM,6,18,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,no,yes,no,no,no
+Env_0836,C6,2020-02-20,West Wine of HSM,5,NA,Environmental swab,work clothes,\,Negative,no,no,yes,yes,no,no,yes
+Env_0837,C7,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Surface of feather removal machine,\,Negative,no,no,yes,yes,no,no,yes
+Env_0838,C8,2020-02-20,West Wine of HSM,5,stair1-2,Environmental swab,Wall inside the stalls,\,Positive,no,no,yes,yes,no,no,yes
+Env_0839,C9,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Ground,\,Negative,no,no,yes,yes,no,no,yes
+Env_0840,C10,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Inside of container,\,Negative,no,no,yes,yes,no,no,yes
+Env_0841,C11,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Ground,\,Negative,no,no,yes,yes,no,no,yes
+Env_0842,C12,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Wall,\,Negative,no,no,yes,yes,no,no,yes
+Env_0843,C13,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Mahjong table,\,Negative,no,no,yes,yes,no,no,yes
+Env_0844,C14,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Mahjong table,\,Negative,no,no,yes,yes,no,no,yes
+Env_0845,C15,2020-02-20,West Wine of HSM,5,NA,Environmental swab,Water cup,\,Negative,no,no,yes,yes,no,no,yes
+Env_0846,C16,2020-02-20,West Wine of HSM,6,34,Environmental swab,Surface of container,\,Negative,no,no,yes,yes,no,no,yes
+Env_0847,C17,2020-02-20,West Wine of HSM,6,34,Environmental swab,Surface of container,\,Negative,no,no,yes,yes,no,no,yes
+Env_0848,C18,2020-02-20,West Wine of HSM,6,NA,Environmental swab,Environmental swab,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0849,C19,2020-02-20,West Wine of HSM,6,NA,Environmental swab,Environmental swab,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0850,s-1,2020-02-19,Warehouses related to west wine of HSM,6,29,Environmental swab,Storehouse ground,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0851,s-2,2020-02-19,Warehouses related to west wine of HSM,6,29,Environmental swab,Storehouse container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0852,9-35-3-freezer,2020-02-20,West Wine of HSM,9,34,Environmental swab,Inner surface of refrigerator,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0853,H-D-3.5-L1,2020-02-20,East Wine of HSM,Accessory Street,7,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0854,E-A--7-3,2020-02-20,East Wine of HSM,Accessory Street,7,Environmental swab,Chopping block,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0855,E-10-29-1,2020-02-20,West Wine of HSM,10,29,Environmental swab,Container,\,Negative,no,no,no,no,yes,no,no
+Env_0856,E-10-29-2,2020-02-20,West Wine of HSM,10,29,Environmental swab,Container,\,Negative,no,no,no,no,yes,no,no
+Env_0857,9-35-2-floor,2020-02-20,West Wine of HSM,9,35,Environmental swab,Ground,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0858,E-A-7-1,2020-02-20,East Wine of HSM,Accessory Street,7,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0859,E-A--7-3-floor,2020-02-20,East Wine of HSM,Accessory Street,7,Environmental swab,Ground,\,Negative,yes,no,yes,yes,yes,no,no
+Env_0860,SJ-BX-2,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Inner surface of refrigerator in storehouse,\,Negative,no,no,yes,no,no,no,yes
+Env_0861,SJ-BX-1,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Inner surface of refrigerator in storehouse,\,Negative,no,no,yes,no,no,no,yes
+Env_0862,SJ-D,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse ground,\,Positive,no,no,yes,no,no,no,yes
+Env_0863,SJ-CS,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse weight scale,\,Positive,no,no,yes,no,no,no,yes
+Env_0864,SJ-L1,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse wire fence,\,Negative,no,no,yes,no,no,no,yes
+Env_0865,SJ-L3,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse wire fence,\,Positive,no,no,yes,no,no,no,yes
+Env_0866,SJ-L2,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse wire fence,\,Negative,no,no,yes,no,no,no,yes
+Env_0867,RLC-4,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse bag surfaces,\,Positive,no,no,yes,no,no,no,yes
+Env_0868,RLC-3,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse bag surfaces,\,Positive,no,no,yes,no,no,no,yes
+Env_0869,RLC-5,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse bag surfaces,\,Negative,no,no,yes,no,no,no,yes
+Env_0870,RLC-2,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0871,RLC-1,2020-02-22,Warehouses related to west wine of HSM,8,25,Environmental swab,Storehouse ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0872,W9-GD-1,2020-02-23,West Wine of HSM,9,NA,Environmental swab,Ventilation duct,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0873,CCDC-454,2020-02-25,West Wine of HSM,9,34,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0874,CCDC-455,2020-02-25,West Wine of HSM,9,34,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0875,629-1-L1,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0876,629-2-L2,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0877,629-3-C,2020-02-29,West Wine of HSM,6,29,Environmental swab,Cart,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0878,629-4-L3,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0879,629-5-L4,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0880,629-6-L5,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0881,629-7-L6,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0882,629-8-L7,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0883,629-9-L8,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0884,629-10-TAJ,2020-02-29,West Wine of HSM,6,29,Environmental swab,Feather removal machine,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0885,629-11-L,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0886,629-12-L,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0887,629-13-L,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0888,629-14-L,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0889,629-L-1,2020-02-29,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0890,CCDC-690,2020-03-02,West Wine of HSM,NA,NA,Environmental swab,Ground of garage,\,Negative,NA,NA,NA,NA,NA,NA,NA
+Env_0891,CCDC-742,2020-03-02,West Wine of HSM,6,29,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0892,CCDC-743,2020-03-02,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0893,CCDC-744,2020-03-02,West Wine of HSM,6,29,Environmental swab,Ground,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0894,CCDC-745,2020-03-02,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0895,CCDC-746,2020-03-02,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0896,CCDC-747,2020-03-02,West Wine of HSM,6,29,Environmental swab,Container,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0897,CCDC-748,2020-03-02,West Wine of HSM,6,36,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0898,CCDC-749,2020-03-02,West Wine of HSM,6,38,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0899,CCDC-750,2020-03-02,West Wine of HSM,7,38,Environmental swab,Surface of the door,\,Negative,yes,yes,no,no,no,no,yes
+Env_0900,CCDC-751,2020-03-02,West Wine of HSM,7,34,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0901,CCDC-752,2020-03-02,West Wine of HSM,7,32,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0902,CCDC-753,2020-03-02,West Wine of HSM,7,32,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0903,CCDC-754,2020-03-02,West Wine of HSM,7,26,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0904,CCDC-755,2020-03-02,West Wine of HSM,7,28,Environmental swab,Inner surface of refrigerator,\,Negative,no,no,yes,no,no,no,yes
+Env_0905,CCDC-756,2020-03-02,West Wine of HSM,8,25,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0906,CCDC-757,2020-03-02,West Wine of HSM,8,25,Environmental swab,Bucket,\,Negative,no,no,yes,no,no,no,yes
+Env_0907,CCDC-758,2020-03-02,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0908,CCDC-759,2020-03-02,West Wine of HSM,8,25,Environmental swab,Container,\,Negative,no,no,yes,no,no,no,yes
+Env_0909,CCDC-760,2020-03-02,West Wine of HSM,8,25,Environmental swab,Ground,\,Negative,no,no,yes,no,no,no,yes
+Env_0910,CCDC-761,2020-03-02,West Wine of HSM,8,25,Environmental swab,Surface of packing bag,\,Negative,no,no,yes,no,no,no,yes
+Env_0911,CCDC-762,2020-03-02,West Wine of HSM,8,25,Environmental swab,Surface of packing bag,\,Negative,no,no,yes,no,no,no,yes
+Env_0912,CCDC-763,2020-03-02,West Wine of HSM,8,25,Environmental swab,Surface of packing bag,\,Negative,no,no,yes,no,no,no,yes
+Env_0913,CCDC-764,2020-03-02,West Wine of HSM,8,30,Environmental swab,Surface of the door,\,Negative,yes,no,yes,no,no,no,no
+Env_0914,CCDC-765,2020-03-02,West Wine of HSM,8,29,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0915,CCDC-766,2020-03-02,West Wine of HSM,8,34,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,yes
+Env_0916,CCDC-767,2020-03-02,West Wine of HSM,8,33,Environmental swab,Surface of the door,\,Negative,no,no,yes,no,no,no,no
+Env_0917,CCDC-768,2020-03-02,West Wine of HSM,8,38,Environmental swab,Surface of the door,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0918,CCDC-769,2020-03-02,West Wine of HSM,9,38,Environmental swab,Surface of the door,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0919,CCDC-770,2020-03-02,West Wine of HSM,9,38,Environmental swab,Container,\,Negative,no,no,yes,yes,yes,no,yes
+Env_0920,CCDC-771,2020-03-02,West Wine of HSM,9,36,Environmental swab,Surface of the door,\,Negative,yes,no,yes,yes,yes,no,yes
+Env_0921,CCDC-772,2020-03-02,West Wine of HSM,9,25,Environmental swab,Surface of the door,\,Negative,no,yes,no,no,no,no,no
+Env_0922,CCDC-773,2020-03-02,West Wine of HSM,7,16,Environmental swab,Surface of the door,\,Negative,no,no,no,no,no,no,no
+Env_0923,CCDC-774,2020-03-02,West Wine of HSM,6,9,Environmental swab,Surface of the door,\,Negative,no,yes,no,no,no,no,no
+Ani_0001,WH-01-ZX,2020-01-22,Other market (Jiang'han district),NA,NA,"Animal swab, tissue or feces",Heart,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0002,WH-02-ZG,2020-01-22,Other market (Jiang'han district),NA,NA,"Animal swab, tissue or feces",Liver,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0003,WH-03-DC,2020-01-22,Other market (Jiang'an district),NA,NA,"Animal swab, tissue or feces",Large intestine,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0004,WH-04-ZX,2020-01-22,Other market (Jiang'an district),NA,NA,"Animal swab, tissue or feces",Heart,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0005,WH-05-DC,2020-01-22,Other market (Dongxihu district),NA,NA,"Animal swab, tissue or feces",Large intestine,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0006,HG-01-DC,2020-01-22,Other market (Huanggang city),NA,NA,"Animal swab, tissue or feces",Large intestine,Pig,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0007,S-YS-01,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0008,S-GS-01,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0009,S-YS-02,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0010,S-GS-02,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0011,S-YS-03,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0012,S-GS-03,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0013,S-YS-04,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0014,S-GS-04,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0015,S-YS-05,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0016,S-GS-05,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0017,S-YS-06,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0018,S-GS-06,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0019,S-YS-07,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0020,S-GS-07,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0021,S-YS-08,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0022,S-GS-08,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0023,S-YS-09,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0024,S-GS-09,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0025,S-YS-10,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0026,S-GS-10,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0027,S-YS-11,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0028,S-GS-11,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0029,S-YS-12,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0030,S-GS-12,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0031,S-YS-13,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0032,S-GS-13,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0033,S-YS-15,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0034,S-GS-15,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0035,S-YS-16,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0036,S-GS-16,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0037,S-T-17,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0038,S-W-17,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Body inside swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0039,S-T-18,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0040,S-W-18,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Body inside swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0041,S-YS-19,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0042,S-GS-19,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0043,S-YS-20,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0044,S-GS-20,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0045,S-YS-21,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0046,S-GS-21,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0047,S-YS-22,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0048,S-GS-22,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0049,S-YS-23,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0050,S-GS-23,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0051,S-YS-24,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0052,S-GS-24,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0053,S-YS-25,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0054,S-GS-25,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0055,S-P-26,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0056,S-YS-27,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0057,S-GS-27,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0058,S-YS-28,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0059,S-GS-28,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Snake,Negative,no,no,no,no,yes,no,no
+Ani_0060,CW-YS-01,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,no,no,no,no,yes,no,no
+Ani_0061,CW-TQ-01,2020-01-25,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Hedgehog,Negative,no,no,no,no,yes,no,no
+Ani_0062,1/27/2001,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Chinese giant salamander,Negative,no,no,no,no,yes,no,no
+Ani_0063,1/27/2002,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Chinese giant salamander,Negative,no,no,no,no,yes,no,no
+Ani_0064,1/27/2003,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Chinese giant salamander,Negative,no,no,no,no,yes,no,no
+Ani_0065,1/27/2004,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Chinese giant salamander,Negative,no,no,no,no,yes,no,no
+Ani_0066,1/27/2005,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Chinese giant salamander,Negative,no,no,no,no,yes,no,no
+Ani_0067,1/27/2007,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Rat (Captured around the market),Negative,no,no,no,no,yes,no,no
+Ani_0068,1/27/2008,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,no,no,no,no,yes,no,no
+Ani_0069,1/27/2010,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Fish,Negative,no,no,no,no,yes,no,no
+Ani_0070,1/27/2023,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Fish,Negative,no,no,no,no,yes,no,no
+Ani_0071,1/27/2027,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0072,1/27/2029,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0073,1/27/1932,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0074,1/27/1938,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0075,1/27/1939,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0076,1/27/1942,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Feces,Stray cat,Negative,no,no,no,no,yes,no,no
+Ani_0077,1/27/1946,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,no,no,no,no,yes,no,no
+Ani_0078,1/27/1947,2020-01-27,West Wine of HSM,10,31,"Animal swab, tissue or feces",Anal swab,Rat (Captured around the market),Negative,no,no,no,no,yes,no,no
+Ani_0079,mouse-1,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0080,mouse-2,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0081,mouse-3,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0082,mouse-4,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0083,mouse-5,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0084,mouse-6,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0085,mouse-7,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0086,mouse-8,2020-01-28,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Rat (Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0087,F-D-1,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0088,F-D-2,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0089,F-D-3,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0090,F-D-4,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0091,F-D-5,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0092,F-D-6,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0093,F-D-7,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0094,F-D-8,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0095,F-D-9,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0096,F-D-10,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0097,F-D-11,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0098,F-D-12,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0099,F-X-1,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0100,F-X-2,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0101,F-X-3,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0102,F-X-4,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0103,F-X-5,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0104,F-X-6,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0105,F-X-8,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0106,F-X-9,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0107,F-X-11,2020-01-29,East Wine of HSM,NA,NA,"Animal swab, tissue or feces",Feces,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0108,M1-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0109,M1-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0110,M2-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0111,M2-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0112,HS-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Weasel Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0113,HS-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Weasel Captured around the market),Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0114,M3-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0115,M3-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0116,M4-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0117,M4-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0118,M5-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0119,M5-GS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0120,JY1-YS,2020-02-05,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Soft-shelled turtle,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0121,JY2-YS,2020-02-09,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Soft-shelled turtle,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0122,JY2-GS,2020-02-09,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Soft-shelled turtle,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0123,M6-YS,2020-02-15,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0124,M6-GS,2020-02-15,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0125,Wshe-YS,2020-02-15,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Snake,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0126,Wshe-GS,2020-02-15,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Snake,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0127,Wshe-GS2,2020-02-15,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Snake,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0128,S-1-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0129,S-2-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0130,S-3-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0131,S-4-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0132,S-5-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0133,S-6-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0134,S-7-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0135,S-8-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0136,S-9-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0137,S-10-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0138,S-11-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0139,S-12-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0140,S-1-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0141,S-2-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0142,S-3-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0143,S-4-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0144,S-5-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0145,S-6-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0146,S-7-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0147,S-8-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0148,S-9-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0149,S-10-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0150,S-11-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0151,S-12-S,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Snake,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0152,ZS-1-Y,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0153,ZS-1-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0154,ZS-2-Y,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0155,ZS-2-G,2020-02-19,Warehouses related to west wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0156,6-29-TZ-1-T,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0157,9-34-YTZ-1-T,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0158,6-29-YTZ-1-T,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0159,6-29-TZ-2-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0160,6-29-YTZ-2-T,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0161,9-34-ZS-1-YS,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0162,9-34-ZS-3-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0163,6-29-TZ-2-T,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0164,6-29-TZ-1-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0165,9-34-ZS-3-GS,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0166,6-29-YTZ-2-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0167,6-29-T3-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0168,6-29-WZ-1-G,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0169,9-34-ZS-1-GS,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces",Anal swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0170,6-29-YTZ-3-YT,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0171,6-29-YT-2-TS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0172,6-29-WZ-2-YS,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0173,9-34-ZS-2-YS,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0174,8-36-ZS-2-YS,2020-02-20,West Wine of HSM,8,36,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,no,no,yes,yes,yes,no,yes
+Ani_0175,8-36-ZS-2-T,2020-02-20,West Wine of HSM,8,36,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Bamboo rat,Negative,no,no,yes,yes,yes,no,yes
+Ani_0176,8-36-ZS-1-T,2020-02-20,West Wine of HSM,8,36,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Bamboo rat,Negative,no,no,yes,yes,yes,no,yes
+Ani_0177,6-29-WZ-1,2020-02-20,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0178,9-34-YTZ-1-YS,2020-02-20,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0179,9-37-wz2-ys,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0180,112,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Throat swab,Crocodile,Negative,yes,no,yes,yes,yes,no,no
+Ani_0181,9-37-TZ3-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0182,9-37-YZ-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Wild boar,Negative,no,no,yes,yes,yes,no,yes
+Ani_0183,9-37-TZ3-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0184,114,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,no
+Ani_0185,9-37-WZ2-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0186,113,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Body surface swab,Crocodile,Negative,yes,no,yes,yes,yes,no,no
+Ani_0187,9-37-TZ-4-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0188,9-37-TZ1-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0189,9-37-YZ-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Wild boar,Negative,no,no,yes,yes,yes,no,yes
+Ani_0190,9-37-TZ-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Wild boar,Negative,no,no,yes,yes,yes,no,yes
+Ani_0191,8-36-dog-TB,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0192,EA-7-dog-TQ,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Dog,Negative,yes,no,yes,yes,yes,no,no
+Ani_0193,EA-7-TZ-BM,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,no
+Ani_0194,9-37-TZ-4-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0195,9-37-WZ-GS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Anal swab,Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0196,EA-7-ey-2-TQ,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Crocodile,Negative,yes,no,yes,yes,yes,no,no
+Ani_0197,EA-7-TZ-BM,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Body surface swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,no
+Ani_0198,8-36-dog-GS,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces",Anal swab,Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0199,EA-TZ-YS,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,no
+Ani_0200,8-36-YT-GS,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0201,9-37-YZ-GS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Anal swab,Wild boar,Negative,no,no,yes,yes,yes,no,yes
+Ani_0202,EA-7-Y-TB,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Body surface swab,Sheep,Negative,yes,no,yes,yes,yes,no,no
+Ani_0203,8-36-YT-TB,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces",Body surface swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0204,9-37-WZ-1-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0205,9-37-dog1-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Body surface swab,Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0206,9-37-dog1-GS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Anal swab,Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0207,9-37-dog-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0208,9-37-TZ1-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Body surface swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0209,9-27-TZ2-YS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0210,9-37-WZ-2-GS,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Anal swab,Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0211,8-36-YT-YS,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0212,EA-e-1,2020-02-21,East Wine of HSM,Accessory Street,7,"Animal swab, tissue or feces",Anal swab,Crocodile,Negative,yes,no,yes,yes,yes,no,no
+Ani_0213,8-36-dog-YS,2020-02-21,West Wine of HSM,8,36,"Animal swab, tissue or feces",Throat swab,Dog,Negative,no,no,yes,yes,yes,no,yes
+Ani_0214,9-37-WZ-TB,2020-02-21,West Wine of HSM,9,37,"Animal swab, tissue or feces",Body surface swab,Other (animal bodie),Negative,no,no,yes,yes,yes,no,yes
+Ani_0215,W9-GD-2,2020-02-23,West Wine of HSM (Ventilation duct),9,NA,"Animal swab, tissue or feces",Feces,Other fece,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0216,W9-GD-3,2020-02-23,West Wine of HSM (Ventilation duct),9,NA,"Animal swab, tissue or feces",Feces,Other fece,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0217,GH-1-YS,2020-02-23,Cold Storage related to west wine of HSM,8,25,"Animal swab, tissue or feces",Throat swab,Badger,Negative,no,no,yes,no,no,no,yes
+Ani_0218,GH-1-GS,2020-02-23,Cold Storage related to west wine of HSM,8,25,"Animal swab, tissue or feces",Anal swab,Badger,Negative,no,no,yes,no,no,no,yes
+Ani_0219,GH-2-YS,2020-02-23,Cold Storage related to west wine of HSM,8,25,"Animal swab, tissue or feces",Throat swab,Badger,Negative,no,no,yes,no,no,no,yes
+Ani_0220,GH-2-GS,2020-02-23,Cold Storage related to west wine of HSM,8,25,"Animal swab, tissue or feces",Anal swab,Badger,Negative,no,no,yes,no,no,no,yes
+Ani_0221,X-730-1,2020-02-23,West Wine of HSM,7,30,"Animal swab, tissue or feces",Body inside swab,Chicken,Negative,no,no,yes,no,no,no,yes
+Ani_0222,X-730-2,2020-02-23,West Wine of HSM,7,30,"Animal swab, tissue or feces",Body inside swab,Chicken,Negative,no,no,yes,no,no,no,yes
+Ani_0223,X-730-3,2020-02-23,West Wine of HSM,7,30,"Animal swab, tissue or feces",Body inside swab,Chicken,Negative,no,no,yes,no,no,no,yes
+Ani_0224,X-730-4,2020-02-23,West Wine of HSM,7,30,"Animal swab, tissue or feces",Body inside swab,Chicken,Negative,no,no,yes,no,no,no,yes
+Ani_0225,X-730-5,2020-02-23,West Wine of HSM,7,30,"Animal swab, tissue or feces",Body inside swab,Chicken,Negative,no,no,yes,no,no,no,yes
+Ani_0226,CCDC-404,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0227,CCDC-405,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0228,CCDC-406,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0229,CCDC-407,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0230,CCDC-408,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0231,CCDC-409,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0232,CCDC-410,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0233,CCDC-411,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0234,CCDC-412,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0235,CCDC-413,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0236,CCDC-414,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0237,CCDC-415,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0238,CCDC-416,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0239,CCDC-417,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0240,CCDC-418,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0241,CCDC-419,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Throat swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0242,CCDC-420,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Body surface swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0243,CCDC-421,2020-02-25,West Wine of HSM,9,38,"Animal swab, tissue or feces",Anal swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0244,CCDC-422,2020-02-25,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0245,CCDC-423,2020-02-25,West Wine of HSM,9,34,"Animal swab, tissue or feces",Body surface swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0246,CCDC-424,2020-02-25,West Wine of HSM,9,34,"Animal swab, tissue or feces",Anal swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0247,CCDC-425,2020-02-25,West Wine of HSM,9,34,"Animal swab, tissue or feces",Throat swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0248,CCDC-426,2020-02-25,West Wine of HSM,9,34,"Animal swab, tissue or feces",Body surface swab,Other (animal bodie),Negative,yes,no,yes,yes,yes,no,yes
+Ani_0249,CCDC-427,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Throat swab,Badger,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0250,CCDC-428,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Body surface swab,Badger,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0251,CCDC-429,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Anal swab,Badger,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0252,CCDC-430,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Throat swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0253,CCDC-431,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Body surface swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0254,CCDC-432,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Anal swab,Bamboo rat,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0255,CCDC-433,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Throat swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0256,CCDC-434,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Body surface swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0257,CCDC-435,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Anal swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0258,CCDC-436,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Throat swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0259,CCDC-437,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Body surface swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0260,CCDC-438,2020-02-25,West Wine of HSM,9,X,"Animal swab, tissue or feces",Anal swab,Dog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0261,CCDC-442,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0262,CCDC-443,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0263,CCDC-444,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0264,CCDC-445,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Throat swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0265,CCDC-446,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Body surface swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0266,CCDC-447,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Anal swab,Muntjac,Negative,no,no,yes,yes,yes,no,yes
+Ani_0267,CCDC-448,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Throat swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0268,CCDC-449,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Body surface swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0269,CCDC-450,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Anal swab,Badger,Negative,no,no,yes,yes,yes,no,yes
+Ani_0270,CCDC-451,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0271,CCDC-452,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Body surface swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0272,CCDC-453,2020-02-25,West Wine of HSM,9,31,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,no,no,yes,yes,yes,no,yes
+Ani_0273,HNSC-G-YS,2020-02-29,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Dog,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0274,HNSC-G-TB,2020-02-29,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Body surface swab,Dog,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0275,CCDC-666,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0276,CCDC-667,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0277,CCDC-668,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0278,CCDC-669,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0279,CCDC-670,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0280,CCDC-671,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0281,CCDC-672,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0282,CCDC-673,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0283,CCDC-674,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0284,CCDC-675,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0285,CCDC-676,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0286,CCDC-677,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0287,CCDC-678,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0288,CCDC-679,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0289,CCDC-680,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0290,CCDC-681,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0291,CCDC-682,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0292,CCDC-683,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0293,CCDC-684,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0294,CCDC-685,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0295,CCDC-686,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0296,CCDC-687,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0297,CCDC-688,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0298,CCDC-689,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0299,CCDC-691,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0300,CCDC-692,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0301,CCDC-693,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0302,CCDC-694,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0303,CCDC-695,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0304,CCDC-696,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0305,CCDC-697,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0306,CCDC-698,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0307,CCDC-699,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0308,CCDC-700,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0309,CCDC-701,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0310,CCDC-702,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0311,CCDC-703,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0312,CCDC-704,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0313,CCDC-705,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0314,CCDC-706,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0315,CCDC-707,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0316,CCDC-708,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0317,CCDC-709,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0318,CCDC-710,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0319,CCDC-711,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0320,CCDC-712,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0321,CCDC-713,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0322,CCDC-714,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0323,CCDC-715,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0324,CCDC-716,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0325,CCDC-717,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0326,CCDC-718,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0327,CCDC-719,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0328,CCDC-720,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0329,CCDC-721,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0330,CCDC-722,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0331,CCDC-723,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0332,CCDC-724,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0333,CCDC-725,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0334,CCDC-726,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0335,CCDC-727,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0336,CCDC-728,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0337,CCDC-729,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0338,CCDC-730,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0339,CCDC-731,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0340,CCDC-732,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0341,CCDC-733,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0342,CCDC-734,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0343,CCDC-735,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Anal swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0344,CCDC-736,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0345,CCDC-737,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0346,CCDC-738,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0347,CCDC-739,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0348,CCDC-740,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0349,CCDC-741,2020-03-02,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Rabbit/Hares,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0350,CCDC-816,2020-03-01,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Dog,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0351,CCDC-817,2020-03-01,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Dog,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0352,CCDC547,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0353,CCDC548,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0354,CCDC549,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0355,CCDC550,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0356,CCDC551,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0357,CCDC552,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0358,CCDC553,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0359,CCDC554,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0360,CCDC555,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0361,CCDC556,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0362,CCDC557,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0363,CCDC558,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0364,CCDC559,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0365,CCDC560,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0366,CCDC561,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0367,CCDC562,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0368,CCDC563,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0369,CCDC564,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0370,CCDC565,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0371,CCDC566,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0372,CCDC567,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0373,CCDC568,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0374,CCDC569,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0375,CCDC570,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0376,CCDC571,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0377,CCDC572,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0378,CCDC573,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0379,CCDC574,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0380,CCDC575,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0381,CCDC576,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0382,CCDC577,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0383,CCDC578,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0384,CCDC579,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0385,CCDC580,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0386,CCDC581,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0387,CCDC582,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0388,CCDC583,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0389,CCDC584,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0390,CCDC585,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0391,CCDC586,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0392,CCDC587,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0393,CCDC588,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0394,CCDC589,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0395,CCDC590,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0396,CCDC591,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0397,CCDC592,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0398,CCDC593,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0399,CCDC600,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0400,CCDC601,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0401,CCDC602,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0402,CCDC603,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0403,CCDC604,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0404,CCDC605,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces","Mixture swab of anus, throat swab and body surface",Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0405,CCDC606,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0406,CCDC607,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0407,CCDC608,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0408,CCDC609,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0409,CCDC610,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0410,CCDC611,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0411,CCDC612,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0412,CCDC613,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body inside swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0413,CCDC614,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0414,CCDC615,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0415,CCDC616,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Throat swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0416,CCDC617,2020-03-10,West Wine of HSM,6,29,"Animal swab, tissue or feces",Body surface swab,Hedgehog,Negative,yes,no,yes,yes,yes,no,yes
+Ani_0417,314-2,2020-03-14,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0418,314-1,2020-03-14,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0419,cat-9-YS,2020-03-20,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0420,CAT-9-GS,2020-03-20,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0421,cat-11-GS,2020-03-22,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0422,cat-10-YS,2020-03-22,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0423,cat-11-YS,2020-03-22,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0424,cat-11-GS,2020-03-22,West Wine of HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0425,CCDC978,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0426,CCDC979,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0427,CCDC981,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0428,CCDC982,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0429,CCDC984,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0430,CCDC985,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0431,CCDC986,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0432,CCDC987,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0433,CCDC989,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0434,CCDC990,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0435,CCDC991,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0436,CCDC992,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0437,CCDC993,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0438,CCDC994,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0439,CCDC995,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0440,CCDC996,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0441,CCDC997,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0442,CCDC998,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0443,CCDC999,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0444,CCDC1000,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0445,CCDC1001,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0446,CCDC1002,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0447,CCDC1003,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0448,CCDC1004,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0449,CCDC1005,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0450,CCDC1006,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0451,CCDC1007,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0452,CCDC1008,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0453,CCDC1009,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0454,CCDC1010,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0455,CCDC1011,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0456,CCDC1012,2020-03-30,Community around HSM,NA,NA,"Animal swab, tissue or feces",Anal swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
+Ani_0457,cat-1,2020-01-18,Community around HSM,NA,NA,"Animal swab, tissue or feces",Throat swab,Stray cat,Negative,NA,NA,NA,NA,NA,NA,NA
