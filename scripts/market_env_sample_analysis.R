@@ -47,8 +47,8 @@ library(ggbiplot)
 library(pheatmap)
 source("./scripts/soap_check.R") # from https://github.com/dill/soap_checker, currently not used
 source("./scripts/autocrunch.R")
-cols = c("#FFFFFF", brewer.pal(5, "YlOrRd")) # heatmap gradient colours
-
+# cols = c("#FFFFFF", brewer.pal(5, "YlOrRd")) # heatmap gradient colours
+cols = colorRampPalette(c("yellow2", "red", "magenta"))(6)
 
 # 1. LOAD UTILITY FUNCTIONS ####
 
