@@ -1,67 +1,83 @@
-possible_concern,group,taxon,common_name,genus,species,latin_name,SC2_susceptible,Intraspecies_transmission,references
-yes,sold live,mammals,Raccoon dog,Nyctereutes,procyonoides,Nyctereutes procyonoides,yes,yes,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Amur hedgehog,Erinaceus,amurensis,Erinaceus amurensis,yes,NA,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,European hedgehog,Erinaceus,europeaus,Erinaceus europeaus,yes,NA,
-yes,sold live,mammals,Long-eared hedgehog,Hemiechinus,auritus,Hemiechinus auritus,,,
-yes,sold live,mammals,African hedgehog,Atelerix,albiventris,Atelerix albiventris,,,
-yes,sold live,mammals,Siberian weasel,Mustela,sibirica,Mustela sibirica,yes,yes,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Hog badger,Arctonyx,albogularis,Arctonyx albogularis,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Greater hog badger,Arctonyx,collaris,Arctonyx collaris,,,
-yes,sold live,mammals,Asian badger,Meles,leucurus,Meles leucurus,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Chinese hare,Lepus,sinensis,Lepus sinensis,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Pallas’s squirrel,Callosciurus,erythraeus,Callosciurus erythraeus,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Masked palm civet,Paguma,larvata,Paguma larvata,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Chinese bamboo rat,Rhizomys,sinensis,Rhizomys sinensis,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Hoary bamboo rat,Rhizomys,pruinosis,Rhizomys pruinosis,,,
-yes,sold live,mammals,Malayan porcupine,Hystrix,brachyura,Hystrix brachyura,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Chinese muntjac,Muntiacus,reevesi,Muntiacus reevesi,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Leaf muntjac,Muntiacus,putaoensis,Muntiacus putaoensis,,,
-yes,sold live,mammals,Coypu,Myocastor,coypus,Myocastor coypus,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Marmot,Marmota,himalayana,Marmota himalayana,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Red fox,Vulpes,vulpes,Vulpes vulpes,yes,NA,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Fennec fox,Vulpes,zerda,Vulpes zerda,,,
-yes,sold live,mammals,Gray fox,Urocyon,cinereoargenteus,Urocyon cinereoargenteus,,,
-yes,sold live,mammals,Bat-eared fox,Otocyon,megalotis,Otocyon megalotis,,,
-yes,sold live,mammals,Mink,Neovison,vison,Neovison vison,,,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Red squirrel,Sciurus,vulgaris,Sciurus vulgaris,,,Xiao et al. Sci. Reports 2021
-no,sold live,mammals,Wild boar,Sus,scrofa,Sus scrofa,yes,no,Xiao et al. Sci. Reports 2021
-yes,sold live,mammals,Complex-toothed flying squirrel,Trogopterus,xanthipes,Trogopterus xanthipes,,,Xiao et al. Sci. Reports 2021
-no,sold live,mammals,Dog,Canis,lupus,Canis lupus,low,no,
-yes,sold live,mammals,Cat,Felis,sylvestris catus,Felis sylvestris catus,yes,yes,
-yes,sold live,mammals,Sand cat,Felis,margarita,Felis margarita,yes,yes,
-no,human,mammals,Human,Homo,sapiens,Homo sapiens,yes,yes,
-no,cow,mammals,Cow,Bos,taurus,Bos taurus,low,no,
-no,sheep,mammals,Sheep,Ovis,orientalis,Ovis orientalis,yes,no,
-no,pig,mammals,Pig,Sus,scrofa domesticus,Sus scrofa domesticus,yes,no,
-yes,sold live,mammals,Rabbit,Oryctolagus,cuniculus,Oryctolagus cuniculus,yes,NA,
-no,goat,mammals,Goat,Capra,hircus,Capra hircus,low,NA,
-no,goat,mammals,Wild goat,Capra,aegagrus,Capra aegagrus,low,NA,
-no,buffalo,mammals,Asian water buffalo,Bubalus,bubalus,Bubalus bubalus,,,
-yes,brown rat,mammals,Brown rat,Rattus,norvegicus,Rattus norvegicus,yes,NA,
-yes,Malayan field rat,mammals,Malayan field rat,Rattus,tiomanicus,Rattus tiomanicus,,,
-no,mouse,mammals,House mouse,Mus,musculus,Mus musculus,no,no,
-yes,sold live,mammals,Three-striped ground squirrel,Lariscus,insignis,Lariscus insignis,yes,yes,
-yes,bat,mammals,Mouse-eared bat,Myotis,sp.,Myotis sp.,yes,yes,
-yes,sold live,mammals,Chinese ferret-badger,Melogale,moschata,Melogale moschata,yes,yes,
-no,sold live,birds,Ducks,Anas,sp.,Anas sp.,,,
-no,sold live,birds,Chicken,Gallus,gallus domesticus,Gallus gallus domesticus,,,
-no,sold live,birds,Collared crow,Corvus,torquatus,Corvus torquatus,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Spotted dove,Spilopelia,chinensis,Spilopelia chinensis,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Eurasian magpie,Pica,pica,Pica pica,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Crested myna,Acridotheres,cristatellus,Acridotheres cristatellus,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Chukar partridge,Alectoris,chukar,Alectoris chukar,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Ring-necked pheasant,Phasianus,colchicus,Phasianus colchicus,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Peacock,Pavo,cristatus,Pavo cristatus,,,Xiao et al. Sci. Reports 2021
-no,sold live,birds,Guinea fowl,Numida,meleagris,Numida meleagris,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Beauty rat snake,Orthriophis,taeniurus,Orthriophis taeniurus,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Red large-toothed Snake,Dinodon,rufozonatum,Dinodon rufozonatum,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Many-banded krait,Bungarus,multicinctus,Bungarus multicinctus,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Ringed water snake,Sinonatrix,annularis,Sinonatrix annularis,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Short-tailed pit viper,Gloydius,brevicaudus,Gloydius brevicaudus,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Chinese cobra,Naja,atra,Naja atra,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Monocled cobra,Naja,kaouthia,Naja kaouthia,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Oriental rat snake,Ptyas,mucosa,Ptyas mucosa,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Sharp-nosed pit viper,Deinagkistrodon,acutus,Deinagkistrodon acutus,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Siamese crocodile,Crocodylus,siamensis,Crocodylus siamensis,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,Big-eyed rat snake,Ptyas,dhumnades,Ptyas dhumnades,,,Xiao et al. Sci. Reports 2021
-no,sold live,reptiles,King rat snake,Elaphe,carinata,Elaphe carinata,,,Xiao et al. Sci. Reports 2021
+possible_concern,category,group,taxon,common_name,genus,species,latin_name,SC2_susceptible,Intraspecies_transmission,references
+yes,wildlife,sold live,mammals,Raccoon dog,Nyctereutes,procyonoides,Nyctereutes procyonoides,yes,yes,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Chinese bamboo rat,Rhizomys,sinensis,Rhizomys sinensis,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Hoary bamboo rat,Rhizomys,pruinosis,Rhizomys pruinosis,,,
+yes,wildlife,sold live,mammals,Three-striped ground squirrel,Lariscus,insignis,Lariscus insignis,yes,yes,
+yes,wildlife,,mammals,Small rice rat,Microryzomys,sp.,Microryzomys sp.,,,
+yes,wildlife,,mammals,Spiny pocket mouse,Liomys,sp.,Liomys sp.,,,
+yes,wildlife,,mammals,Tomes's rice rat,Nephelomys,albigularis,Nephelomys albigularis,,,
+yes,wildlife,sold live,mammals,Amur hedgehog,Erinaceus,amurensis,Erinaceus amurensis,yes,NA,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,European hedgehog,Erinaceus,europeaus,Erinaceus europeaus,yes,NA,
+yes,wildlife,sold live,mammals,Long-eared hedgehog,Hemiechinus,auritus,Hemiechinus auritus,,,
+yes,wildlife,sold live,mammals,African hedgehog,Atelerix,albiventris,Atelerix albiventris,,,
+yes,wildlife,sold live,mammals,Siberian weasel,Mustela,sibirica,Mustela sibirica,yes,yes,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Hog badger,Arctonyx,albogularis,Arctonyx albogularis,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Greater hog badger,Arctonyx,collaris,Arctonyx collaris,,,
+yes,wildlife,sold live,mammals,Asian badger,Meles,leucurus,Meles leucurus,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Chinese hare,Lepus,sinensis,Lepus sinensis,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Pallas’s squirrel,Callosciurus,erythraeus,Callosciurus erythraeus,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Masked palm civet,Paguma,larvata,Paguma larvata,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Malayan porcupine,Hystrix,brachyura,Hystrix brachyura,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Chinese muntjac,Muntiacus,reevesi,Muntiacus reevesi,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Leaf muntjac,Muntiacus,putaoensis,Muntiacus putaoensis,,,
+yes,wildlife,sold live,mammals,Coypu,Myocastor,coypus,Myocastor coypus,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Marmot,Marmota,himalayana,Marmota himalayana,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Red fox,Vulpes,vulpes,Vulpes vulpes,yes,NA,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Fennec fox,Vulpes,zerda,Vulpes zerda,,,
+yes,wildlife,sold live,mammals,Gray fox,Urocyon,cinereoargenteus,Urocyon cinereoargenteus,,,
+yes,wildlife,sold live,mammals,Bat-eared fox,Otocyon,megalotis,Otocyon megalotis,,,
+yes,wildlife,sold live,mammals,Mink,Neovison,vison,Neovison vison,,,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Red squirrel,Sciurus,vulgaris,Sciurus vulgaris,,,Xiao et al. Sci. Reports 2021
+no,livestock,sold live,mammals,Wild boar,Sus,scrofa,Sus scrofa,yes,no,Xiao et al. Sci. Reports 2021
+yes,wildlife,sold live,mammals,Complex-toothed flying squirrel,Trogopterus,xanthipes,Trogopterus xanthipes,,,Xiao et al. Sci. Reports 2021
+yes,pets,sold live,mammals,Dog,Canis,lupus,Canis lupus,low,no,
+yes,pets,sold live,mammals,Cat,Felis,sylvestris catus,Felis sylvestris catus,yes,yes,
+yes,pets,sold live,mammals,Sand cat,Felis,margarita,Felis margarita,yes,yes,
+yes,human,human,mammals,Human,Homo,sapiens,Homo sapiens,yes,yes,
+yes,livestock,cow,mammals,Cow,Bos,taurus,Bos taurus,low,no,
+yes,livestock,sheep,mammals,Sheep,Ovis,orientalis,Ovis orientalis,yes,no,
+yes,livestock,pig,mammals,Pig,Sus,scrofa domesticus,Sus scrofa domesticus,yes,no,
+yes,livestock,goat,mammals,Goat,Capra,hircus,Capra hircus,low,NA,
+yes,livestock,goat,mammals,Wild goat,Capra,aegagrus,Capra aegagrus,low,NA,
+yes,livestock,deer,mammals,White-tailed deer,Odocoileus,virginianus,Odocoileus virginianus,yes,yes,
+yes,livestock,Axis deer,mammals,Axis deer,Axis,axis,Axis axis,,,
+yes,livestock,Sika deer,mammals,Sika deer,Cervus,nippon,Cervus nippon,,,
+yes,livestock,buffalo,mammals,Asian water buffalo,Bubalus,bubalus,Bubalus bubalus,,,
+yes,game meat,hartebeest,mammals,hartebeest,Alcelaphus,buselaphus,Alcelaphus buselaphus,,,
+yes,livestock,chamois,mammals,Chamois,Rupicapra,rupicapra,Rupicapra rupicapra,,,
+yes,wildlife,gibbon,mammals,Gibbon,Hylobates,sp.,Hylobates sp.,,,
+yes,pets,sold live,mammals,Rabbit,Oryctolagus,cuniculus,Oryctolagus cuniculus,yes,NA,
+yes,wildlife,Malayan field rat,mammals,Malayan field rat,Rattus,tiomanicus,Rattus tiomanicus,,,
+yes,local wildlife,brown rat,mammals,Brown rat,Rattus,norvegicus,Rattus norvegicus,yes,NA,
+no,local wildlife,mouse,mammals,House mouse,Mus,musculus,Mus musculus,no,no,
+yes,local wildlife,Chinese mole shrew,mammals,Chinese mole shrew,Anourosorex,squamipes,Anourosorex squamipes,,,
+yes,local wildlife,bat,mammals,Mouse-eared bat,Myotis,sp.,Myotis sp.,yes,yes,
+yes,wildlife,sold live,mammals,Chinese ferret-badger,Melogale,moschata,Melogale moschata,yes,yes,
+yes,poultry & ornamental birds,sold live,birds,Chicken,Gallus,gallus domesticus,Gallus gallus domesticus,,,
+yes,poultry & ornamental birds,sold live,birds,Ducks,Anas,sp.,Anas sp.,,,
+yes,poultry & ornamental birds,,birds,Chinese painted quail,Coturnix,chinensis,Coturnix chinensis,,,
+yes,poultry & ornamental birds,,birds,Pigeon,Columba,sp.,Columba sp.,,,
+yes,poultry & ornamental birds,,birds,White-breasted waterhen,Amaurornis,phoenicurus,Amaurornis phoenicurus,,,
+yes,poultry & ornamental birds,,birds,Cassowary,Casuarius,sp.,Casuarius sp.,,,
+yes,ornamental birds,,birds,Spotted dove,Spilopelia,chinensis,Spilopelia chinensis,,,
+yes,ornamental birds,,birds,Eurasian moorhen,Gallinula,chloropus,Gallinula chloropus,,,
+no,ornamental birds,sold live,birds,Collared crow,Corvus,torquatus,Corvus torquatus,,,Xiao et al. Sci. Reports 2021
+yes,ornamental birds,sold live,birds,Spotted dove,Spilopelia,chinensis,Spilopelia chinensis,,,Xiao et al. Sci. Reports 2021
+no,ornamental birds,sold live,birds,Eurasian magpie,Pica,pica,Pica pica,,,Xiao et al. Sci. Reports 2021
+no,ornamental birds,sold live,birds,Crested myna,Acridotheres,cristatellus,Acridotheres cristatellus,,,Xiao et al. Sci. Reports 2021
+no,poultry & ornamental birds,sold live,birds,Chukar partridge,Alectoris,chukar,Alectoris chukar,,,Xiao et al. Sci. Reports 2021
+yes,poultry & ornamental birds,sold live,birds,Ring-necked pheasant,Phasianus,colchicus,Phasianus colchicus,,,Xiao et al. Sci. Reports 2021
+no,ornamental birds,sold live,birds,Peacock,Pavo,cristatus,Pavo cristatus,,,Xiao et al. Sci. Reports 2021
+no,poultry & ornamental birds,sold live,birds,Guinea fowl,Numida,meleagris,Numida meleagris,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Beauty rat snake,Orthriophis,taeniurus,Orthriophis taeniurus,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Red large-toothed Snake,Dinodon,rufozonatum,Dinodon rufozonatum,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Many-banded krait,Bungarus,multicinctus,Bungarus multicinctus,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Ringed water snake,Sinonatrix,annularis,Sinonatrix annularis,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Short-tailed pit viper,Gloydius,brevicaudus,Gloydius brevicaudus,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Chinese cobra,Naja,atra,Naja atra,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Monocled cobra,Naja,kaouthia,Naja kaouthia,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Oriental rat snake,Ptyas,mucosa,Ptyas mucosa,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Sharp-nosed pit viper,Deinagkistrodon,acutus,Deinagkistrodon acutus,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Siamese crocodile,Crocodylus,siamensis,Crocodylus siamensis,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,Big-eyed rat snake,Ptyas,dhumnades,Ptyas dhumnades,,,Xiao et al. Sci. Reports 2021
+no,,sold live,reptiles,King rat snake,Elaphe,carinata,Elaphe carinata,,,Xiao et al. Sci. Reports 2021
