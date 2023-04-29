@@ -756,10 +756,11 @@ graph2png(file="./plots/SARSCoV2_positivity_market_water drain_binomial_GLMM.png
 # NOTE: unfortunately, these smooths are not supported by brms for the moment
 
 # NOTE2: these fits give a picture somewhat similar to the earlier published
-# density plots, but right now they do not incorporate a stall random intercept
+# density plots, but right now the fit does not incorporate a stall random intercept
 # or spatial autocorrelation in the residuals & hence are less good than the fits
 # above, as they do not take into account sampling dependencies arising from
-# repeated sampling from the same stall
+# repeated sampling from the same stall, and is in fact overfitted in terms
+# of the spatial pattern that it returns
 
 nknots = 7 # gave best GCV score in binomial GAM soap film smooth below
 knots = rbind(make.soapgrid(boundary_gam[[1]], nknots), # knots for soap film smooth, falling within market boundary
